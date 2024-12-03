@@ -142,7 +142,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 52329861,Con Đường Hồi Giáo (Tái Bản 2020),Nguyễn Phương Mai,100000,60000,4379,Sách Địa Danh - Du Lịch,859,5.0,304,Nhà Xuất Bản Hội Nhà Văn
 14053724,Sự Cứu Rỗi Của Thánh Nữ,Higashino Keigo,128000,76800,6399,Tiểu Thuyết,673,4.8,382,Không rõ
 2496281,Đồi Gió Hú (Tái Bản),Emily Bronte,108000,64800,3617,Tác phẩm kinh điển,497,4.8,492,Không rõ
-202851059,One Piece -Tập 101: “Siêu Sao Thượng Đài”,Không rõ,22000,18000,1591,Khác,142,4.8,263,Nhà Xuất Bản Kim Đồng
+202851059,One Piece -Tập 101: “Siêu Sao Thượng Đài”,Không rõ,22000,18000,1591,Khác,142,4.8,264,Nhà Xuất Bản Kim Đồng
 187338036,Chiến Tranh Tiền Tệ - Tập 4, Song Hong Bing,185000,131000,1124,"Sách tài chính, tiền tệ",145,5.0,608,Nhà Xuất Bản Lao Động
 111580006,Muôn Kiếp Nhân Sinh 2 (Khổ Nhỏ),Nguyên Phong,148000,97600,3843,Khác,907,5.0,672,Nhà Xuất Bản Tổng hợp TP.HCM
 35191892,21 Bài Học Cho Thế Kỷ 21,Yuval Noah Harari,209000,125400,18353,Tiểu Thuyết,1681,4.6,434,Nhà Xuất Bản Thế Giới
@@ -154,16 +154,16 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 8848897,Trí Tuệ Do Thái (Tái Bản 2018),Eran Katz,189000,145000,63,Sách tư duy - Kỹ năng sống,9,5.0,444,Nhà Xuất Bản Lao Động Xã Hội
 72882553,Kỷ Luật Tự Giác (Tặng Kèm Bookmark ),Tiểu Dã,84000,54001,9508,Sách tư duy - Kỹ năng sống,1881,4.8,216,Nhà Xuất Bản Thế Giới
 81323246,90-20-30 90 Bài Học Vỡ Lòng Về Ý Tưởng Và Câu Chữ (Bản Đen Trắng),Huỳnh Vĩnh Sơn,195000,136500,6127,Sách Marketing - Bán hàng ,1330,5.0,420,Nhà Xuất Bản Dân Trí
-205563269,ĐƯỜNG XƯA MÂY TRẮNG, Thích Nhất Hạnh,280000,223000,95,Khác,5,4.2,263,Nhà Xuất Bản Hồng Đức
+205563269,ĐƯỜNG XƯA MÂY TRẮNG, Thích Nhất Hạnh,280000,223000,95,Khác,5,4.2,264,Nhà Xuất Bản Hồng Đức
 52329765,Biên Niên Ký Chim Vặn Dây Cót (Tái Bản 2020),Haruki Murakami,199000,119400,2303,Tiểu Thuyết,533,4.8,720,Nhà Xuất Bản Hội Nhà Văn
 13419678,Đi Tìm Lẽ Sống ( Tái Bản ),Viktor Emil Frankl,88000,50100,16762,Sách tư duy - Kỹ năng sống,2004,4.8,224,Nhà Xuất Bản Tổng hợp TP.HCM
-201892204,Black Jack - Tập 15 (Bìa Mềm),Osamu Tezuka,30000,26100,329,Khác,34,5.0,263,NXB Trẻ
+201892204,Black Jack - Tập 15 (Bìa Mềm),Osamu Tezuka,30000,26100,329,Khác,34,5.0,264,NXB Trẻ
 10140336,Hãy Chăm Sóc Mẹ (Tái Bản 2019),Shin Kyung Sook,90000,54000,6584,Tiểu Thuyết,878,4.8,323,Không rõ
 185067342,Tô Bình Yên Vẽ Hạnh Phúc (Tái Bản),Kulzsc,88000,69000,1551,Sách Tô Màu Dành Cho Người Lớn,179,5.0,96,Nhà Xuất Bản Phụ Nữ
 205336471,Dr.Slump Ultimate Edition - Tập 13,Akira Toriyama,60000,59900,200,Khác,11,5.0,232,Nhà Xuất Bản Kim Đồng
 59262880,Người Bán Hàng Vĩ Đại Nhất Thế Giới (Tái Bản 2020),Og Mandino,148000,84300,5024,Bài học kinh doanh,775,4.8,296,Nhà Xuất Bản Tổng hợp TP.HCM
 201226690,Đô Thị Linh Dị,Nguyễn Ngọc Thạch,145000,109000,273,Truyện kinh dị,23,4.8,288,Nhà Xuất Bản Hội Nhà Văn
-204635033,Thám Tử Lừng Danh Conan - Tập 100 - Bìa Gập,Gosho Aoyama,20000,19000,1121,Khác,0,0.0,188,Nhà Xuất Bản Kim Đồng
+204635033,Thám Tử Lừng Danh Conan - Tập 100 - Bìa Gập,Gosho Aoyama,20000,19000,1131,Khác,0,0.0,188,Nhà Xuất Bản Kim Đồng
 168234714,Cư Xử Như Đàn Bà Suy Nghĩ Như Đàn Ông,Steve Harvey,109000,86000,1055,Sách tư duy - Kỹ năng sống,107,4.8,324,Nhà Xuất Bản Hà Nội
 113540576,Hảo Nữ Trung Hoa,Hân Nhiên,128000,76800,2631,Truyện dài,599,5.0,356,Nhà Xuất Bản Hà Nội
 50685547,Bản Đồ,Aleksandra Mizielińska,345000,207000,5237,Kiến thức - Bách khoa,877,4.8,108,Nhà Xuất Bản Lao Động
@@ -183,13 +183,13 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 14136016,"Phía Nam Biên Giới, Phía Tây Mặt Trời (Tái Bản 2018)",Haruki Murakami,85000,51000,3717,Tiểu Thuyết,525,5.0,200,Không rõ
 11189120,Đồi Thỏ (Tái Bản 2019),Richard Adams,145000,87000,3958,Tiểu Thuyết,500,4.8,494,Không rõ
 96357336,Cáo Pax,Sara Pennypacker,116000,69600,1589,Tiểu Thuyết,303,5.0,272,Nhà Xuất Bản Hội Nhà Văn
-200694866,Blue Period - Tập 05,Yamaguchi Tsubasa,48000,41700,491,Khác,54,5.0,263,NXB Trẻ
+200694866,Blue Period - Tập 05,Yamaguchi Tsubasa,48000,41700,491,Khác,54,5.0,264,NXB Trẻ
 195649312,Trí Tuệ Do Thái  (Tái Bản 2022),Eran Katz,189000,123000,515,Sách Luyện Thi Đại Học - Cao Đẳng,47,4.8,444,Nhà Xuất Bản Công Thương
 109793160,Combo 2 Cuốn: Bạn Không Thông Minh Lắm Đâu +  Bạn Đỡ Ngu Ngơ Rồi Đấy (Tái Bản) ,David McRaney,268000,170000,1555,Sách tư duy - Kỹ năng sống,314,5.0,794,Nhà Xuất Bản Thế Giới
 76776245,Nghệ Thuật Tư Duy Phản Biện,Albert Rutherford,129000,82100,3606,Sách tư duy - Kỹ năng sống,564,4.8,280,Nhà Xuất Bản Lao Động
 186271356,Từ điển xây kênh từ cơ bản đến thành công,Cấn Mạnh Linh,199000,199000,448,Sách Marketing - Bán hàng ,30,4.8,312,Nhà Xuất Bản Thanh Niên
 207494285,Tớ Rất Yêu Doraemon,Shintaro Mugiwara,128000,128000,99,Khác,2,5.0,48,Nhà Xuất Bản Kim Đồng
-203757836,Dragon Ball Full Color - Phần Năm: Truy Lùng Cell Bọ Hung - Tập 6,Akira Toriyama,77000,77000,335,Khác,30,5.0,263,Nhà Xuất Bản Kim Đồng
+203757836,Dragon Ball Full Color - Phần Năm: Truy Lùng Cell Bọ Hung - Tập 6,Akira Toriyama,77000,77000,335,Khác,30,5.0,264,Nhà Xuất Bản Kim Đồng
 202450678,Fullmetal Alchemist - Cang Giả Kim Thuật Sư - Fullmetal Edition Tập 17 [Tặng Kèm Bookmark PVC],Hiromu Arakawa,69000,68000,437,Khác,34,5.0,280,Nhà Xuất Bản Kim Đồng
 186286187,Nhà Lãnh Đạo Không Chức Danh,Robin Sharma,105000,75400,866,Bài học kinh doanh,36,5.0,178,NXB Trẻ
 168293266,Chiến Tranh Tiền Tệ - Phần 2 - Sự Thống Trị Của Quyền Lực Tài Chính ( Tái Bản 2022),Song Hong Bing,170000,120000,1793,"Sách tài chính, tiền tệ",269,5.0,632,Nhà Xuất Bản Lao Động
@@ -197,7 +197,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 205819593,Tình Đầu Nhạt Phai - Tập 1,Wataru Hinekure,58000,49200,227,Khác,31,5.0,176,Nhà Xuất Bản Hà Nội
 139567621,Thức Tỉnh Mục Đích Sống (Tái Bản),Eckhart Tolle,148000,97600,1701,Sách nghệ thuật sống đẹp,185,5.0,440,Nhà Xuất Bản Tổng hợp TP.HCM
 198198468,Hay Chúng Mình Đừng Hứa Hẹn Gì Nhau,Minh Dự,115000,64200,272,Truyện ngắn - Tản văn - Tạp Văn,21,5.0,152,Nhà Xuất Bản Văn Học
-202878479,Kingdom - Tập 37,Yasuhisa Hara,45000,41000,371,Khác,13,5.0,263,NXB Trẻ
+202878479,Kingdom - Tập 37,Yasuhisa Hara,45000,41000,371,Khác,13,5.0,264,NXB Trẻ
 10767515,Phân Tâm Học Nhập Môn,Không rõ,159000,95400,3487,Sách tư duy - Kỹ năng sống,392,4.7,318,Không rõ
 113540577,Anne Tóc Đỏ Dưới Chái Nhà Xanh,Lucy Maud Montgomery,119000,71400,1448,Tiểu Thuyết,275,5.0,430,Nhà Xuất Bản Hội Nhà Văn
 205299640,Vừa Tỉnh Dậy Thì Nghe Nói Tôi Kết Hôn Rồi (Tập 3),Mộc Qua Hoàng,159000,118000,272,Truyện đam mỹ,47,4.6,448,Nhà Xuất Bản Dân Trí
@@ -253,7 +253,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 57761618,Vụ Án Mạng Ở Lữ Quán Kairotei,Higashino Keigo,123000,73800,4242,Truyện trinh thám,791,4.8,292,Nhà Xuất Bản Hà Nội
 184070223,OSHO - Cảm Xúc,Osho,188000,124000,1333,Sách nghệ thuật sống đẹp,164,5.0,408,Nhà Xuất Bản Dân Trí
 149089470,Những Vị Thần Nước Mỹ,Neil Gaiman,250000,150000,1912,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,401,4.7,648,Nhà Xuất Bản Phụ Nữ Việt Nam
-197634260,Black Jack - Tập 14,Osamu Tezuka,30000,26000,692,Khác,67,5.0,263,NXB Trẻ
+197634260,Black Jack - Tập 14,Osamu Tezuka,30000,26000,692,Khác,67,5.0,264,NXB Trẻ
 77109209,Nghệ Thuật Đánh Cắp Ý Tưởng (10 Bí Mật Không Ai Nói Với Bạn Về Sáng Tạo),Austin Kleon,99000,63300,596,Sách kỹ năng làm việc,109,4.8,160,Nhà Xuất Bản Thế Giới
 54614797,"Có Một Ngày, Bố Mẹ Sẽ Già Đi",Không rõ,96000,58520,10530,Truyện ngắn - Tản văn - Tạp Văn,2252,4.8,296,Nhà Xuất Bản Thế Giới
 59043891,Hố (Louis Sachar)(Tái Bản 2020),Louis Sachar,72000,43200,900,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,158,5.0,235,Nhà Xuất Bản Hội Nhà Văn
@@ -261,7 +261,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 87226754,Một Cuốn Sách Buồn… Cười - Vui Vẻ Không Quạu Nha 2,Ở Đây Zui Nè,79000,51001,7106,Truyện ngắn - Tản văn - Tạp Văn,1610,4.8,280,Nhà Xuất Bản Phụ Nữ Việt Nam
 52584834,Tư Duy Hệ Thống Trong Công Việc,Steven Schuster,89000,57100,4901,Sách tư duy - Kỹ năng sống,604,4.7,168,Nhà Xuất Bản Thế Giới
 57911668,Kho Báu Bị Nguyền Rủa,Michel Bussi,189000,161000,1700,Truyện trinh thám,0,0.0,496,Nhà Xuất Bản Hội Nhà Văn
-202878483,"Gửi em, người bất tử - Tập 14",Yoshitoki Oima,30000,26100,209,Khác,16,5.0,263,NXB Trẻ
+202878483,"Gửi em, người bất tử - Tập 14",Yoshitoki Oima,30000,26100,209,Khác,16,5.0,264,NXB Trẻ
 112110014,TÂM LÝ HỌC ỨNG DỤNG,Không rõ,129000,83000,3674,Sách tư duy - Kỹ năng sống,561,4.8,318,NXB Đại học Kinh Tế Quốc Dân
 766386,Thiên Môn Chi Uy,Phương Bạch Vũ,90000,72000,8,Tiểu Thuyết,1,5.0,355,Không rõ
 192475873,Để Con Được Ốm,Nguyễn Trí Đoàn,120000,72000,321,Sách Làm Cha Mẹ,9,5.0,316,Nhà Xuất Bản Thế Giới
@@ -306,7 +306,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 203910491,"UNNAMED MEMORY – Hồi ức không tên
 (Tập 1: Nguyệt lam phù thuỷ và hoàng tử bị nguyền rủa)",Kuji Furumiya,139000,102800,200,Khác,42,4.8,464,Nhà Xuất Bản Hà Nội
 205986070,Anh Em Phi Hành Gia - Tập 38,Chuya Koyama,45000,36000,93,Khác,3,5.0,204,NXB Trẻ
-145279201,Sách Đường Xưa Mây Trắng - Theo Gót Chân Bụt (Tái bản năm 2020) (Bìa mềm/ Câu Chuyện Thú Vị Về Bụt/ Tặng Kèm Bookmark),Không rõ,270500,270500,230,Khác,22,5.0,263,Nhà Xuất Bản Hồng Đức
+145279201,Sách Đường Xưa Mây Trắng - Theo Gót Chân Bụt (Tái bản năm 2020) (Bìa mềm/ Câu Chuyện Thú Vị Về Bụt/ Tặng Kèm Bookmark),Không rõ,270500,270500,230,Khác,22,5.0,264,Nhà Xuất Bản Hồng Đức
 76014598,Blue Ocean Strategy - Chiến Lược Đại Dương Xanh (Bìa Cứng) (Tái Bản),W.Chan Kim,239000,156000,1620,"Sách quản trị, lãnh đạo",242,4.8,344,Nhà Xuất Bản Công Thương
 5154645,Ở Quán Cà Phê Của Tuổi Trẻ Lạc Lối (Tái Bản),Không rõ,59000,35400,2563,Truyện ngắn - Tản văn - Tạp Văn,341,4.8,153,Không rõ
 8835159,Đời Ngắn Đừng Ngủ Dài (Tái Bản),Robin Sharma,75000,55500,44164,Sách tư duy - Kỹ năng sống,3073,4.8,228,Không rõ
@@ -321,7 +321,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 207398364,"Gửi Em, Người Bất Tử - Tập 16",Yoshitoki Oima,30000,26100,53,Khác,4,5.0,192,NXB Trẻ
 93249305,Tư Duy Nhanh Và Chậm (Bản mới nhất 2020),Daniel Kahneman,269000,174850,874,Bài học kinh doanh,182,4.8,612,Nhà Xuất Bản Thế Giới
 205148096,"Gửi Em, Người Bất Tử - Tập 15",Yoshitoki Oima,30000,26100,119,Khác,6,5.0,200,NXB Trẻ
-193981042,One Piece - Tập 100 :  Haki Bá vương,Eiichiro Oda,22000,21900,2712,Khác,527,5.0,263,Nhà Xuất Bản Kim Đồng
+193981042,One Piece - Tập 100 :  Haki Bá vương,Eiichiro Oda,22000,21900,2712,Khác,527,5.0,264,Nhà Xuất Bản Kim Đồng
 155463025,Nghệ Thuật Bán Hàng Bậc Cao - Bí Quyết Chốt Deal Mọi Thời Đại (Khổ Lớn)(Tái Bản),Zig Ziglar,198000,112800,588,Sách Marketing - Bán hàng ,58,5.0,504,Nhà Xuất Bản Tổng hợp TP.HCM
 27611077,Hackers Ielts: Writing,Viện ngôn ngữ Hackers,239000,156000,6892,Sách Học Tiếng Anh,1149,4.8,452,Nhà Xuất Bản Thế Giới
 156824933,Thám tử lừng danh Conan Tập 99,Gosho Aoyama,20000,20000,5491,Khác,1396,5.0,184,Nhà Xuất Bản Kim Đồng
@@ -329,9 +329,9 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 76175424,Vụ Án Mạng Ở Nhà Khách Núi Hakuba,Higashino Keigo,138000,82800,3214,Truyện trinh thám,760,4.8,336,Nhà Xuất Bản Hà Nội
 5914507,Quân Vương (Tái Bản),Machiavelli,68000,40800,2443,Tiểu sử - Hồi ký,283,4.8,215,Nhà Xuất Bản Hội Nhà Văn
 832239,Thiên Môn Chi Tâm,Phương Bạch Vũ,77000,15400,512,Tiểu Thuyết,26,4.5,252,Không rõ
-202878485,Shaman King - Tập 20,Hiroyuki Takei,35000,30400,220,Khác,15,5.0,263,NXB Trẻ
+202878485,Shaman King - Tập 20,Hiroyuki Takei,35000,30400,220,Khác,15,5.0,264,NXB Trẻ
 205033835,Một năm sống tử tế,Donna Cameron,168000,100800,64,Tác phẩm kinh điển,5,5.0,422,Nhà Xuất Bản Dân Trí
-203757840,Blue Flag - Tập 6,Không rõ,45000,42000,177,Khác,15,5.0,263,Nhà Xuất Bản Kim Đồng
+203757840,Blue Flag - Tập 6,Không rõ,45000,42000,177,Khác,15,5.0,264,Nhà Xuất Bản Kim Đồng
 47342678,Không Giới Hạn - Khám Phá HO'OPONOPONO,Joe Vitale,149000,123000,11789,Sách tư duy - Kỹ năng sống,1633,5.0,304,Nhà Xuất Bản Thế Giới
 58616755,Content Bạc Tỷ,Diệp Tiểu Ngư,149000,101000,3533,Sách Marketing - Bán hàng ,578,4.8,384,Nhà Xuất Bản Công Thương
 102629318,999 Lá Thư Gửi Cho Chính Mình (*) - Tập 1 - Mong Bạn Trở Thành Phiên Bản Hoàn Hảo Nhất (Tái bản),Miêu Công Tử,129000,90001,4660,Sách tư duy - Kỹ năng sống,778,4.8,232,Nhà Xuất Bản Thanh Niên
@@ -349,7 +349,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 162181800,Cảm Ơn Anh Đã Đánh Mất Em,Trí,99000,69001,2889,Truyện ngắn - Tản văn - Tạp Văn,442,5.0,256,Nhà Xuất Bản Văn Học
 9948009,Dám Hạnh Phúc,Koga Fumitake,110000,66000,6711,Truyện dài,517,4.8,299,Không rõ
 1938895,Nghệ Thuật PR Bản Thân (Tái Bản 2018),Austin Kleon,99000,62370,3698,Sách kỹ năng làm việc,191,4.7,222,Không rõ
-201048325,Ngôi Sao Vườn Nữ Sinh - Tập 2,Yama Wayama,50000,45100,360,Khác,40,5.0,263,Nhà Xuất Bản Kim Đồng
+201048325,Ngôi Sao Vườn Nữ Sinh - Tập 2,Yama Wayama,50000,45100,360,Khác,40,5.0,264,Nhà Xuất Bản Kim Đồng
 200928947,Những Gì Đã Qua Đừng Nghĩ Lại Quá Nhiều,Minh Mẫn - Du Phong,98000,58000,181,Truyện ngắn - Tản văn - Tạp Văn,12,4.7,208,Nhà Xuất Bản Văn Học
 121635154,Điều Đẹp Nhất Có Khi Là Buông Tay (Tặng Kèm Bookmark),Thought Catalog,72000,54000,3281,Truyện ngắn - Tản văn - Tạp Văn,453,4.8,160,Nhà Xuất Bản Hà Nội
 190861557,Yêu Những Ngày Nắng Chẳng Ghét Những Ngày Mưa,Kulzsc,132000,83001,3940,Sách Tô Màu Dành Cho Người Lớn,736,5.0,168,Nhà Xuất Bản Phụ Nữ
@@ -359,43 +359,42 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 194960730,Nỗi buồn chiến tranh,Bảo Ninh,130000,90100,398,Tiểu sử - Hồi ký,51,5.0,363,NXB Trẻ
 104651900,Sách Seneca: Những Bức Thư Đạo Đức – Chủ nghĩa Khắc kỷ trong đời sống - Tập 1,Lucius Annaeus Seneca,149000,145000,2176,Sách tư duy - Kỹ năng sống,399,4.8,338,Nhà Xuất Bản Thế Giới
 205941719,Và Sao Không Thể Hết Yêu Em?,Nhiều tác giả,88000,55321,86,Thơ,7,4.6,168,Nhà Xuất Bản Phụ Nữ
-161409461,Thùng 48 hộp sữa tươi tiệt trùng có đường TH True Milk 180ml (180ml x 48),Không rõ,406800,386000,1372,Khác,117,5.0,263,Không rõ
 106185389,Tổng ôn ngữ pháp Tiếng Anh cô Trang Anh- Sách luyện thi THPT Quốc gia môn tiếng anh ,Trang Anh,250000,169000,7154,Sách Luyện Thi Đại Học - Cao Đẳng,2407,4.8,606,Nhà Xuất Bản Đại Học Quốc Gia Hà Nội
 125362332,Bạn Càng Mạnh Mẽ Thế Giới Càng Công Bằng (Vượt Qua Rào Cản Tâm Lý Để Thành Công Trong Công Việc),Patrick King,110000,71100,891,Sách tư duy - Kỹ năng sống,104,5.0,200,Nhà Xuất Bản Thanh Niên
 10971007,EQ - Trí Thông Minh Xúc Cảm Trong Công Việc,Justin Bariso,129000,91100,4960,Sách tư duy - Kỹ năng sống,643,4.7,336,Không rõ
 4313653,Từng Bước Nở Hoa Sen,Thích Nhất Hạnh,75000,50200,6839,Khác,640,5.0,120,Không rõ
 167972598,Tôi Thích Bản Thân Nỗ Lực Hơn (Ấn Bản Kỷ Niệm),Chu Xung,120000,84001,1458,Truyện ngắn - Tản văn - Tạp Văn,244,4.8,380,Nhà Xuất Bản Văn Học
 205000920,Chuyện Tình Thanh Xuân Bi Hài Của Tôi Quả Nhiên Là Sai Lầm - Tập 14,Wataru WATARI,179000,132400,128,Light novel,21,5.0,516,Nhà Xuất Bản Hà Nội
-201892200,Black Jack Tập 15 (Bìa Cứng),Osamu Tezuka,135000,115000,183,Khác,13,5.0,263,NXB Trẻ
+201892200,Black Jack Tập 15 (Bìa Cứng),Osamu Tezuka,135000,115000,183,Khác,13,5.0,264,NXB Trẻ
 184070221,OSHO - Hiểu - Đường Đến Tự Do,Osho,168000,110800,911,Sách nghệ thuật sống đẹp,121,5.0,368,Nhà Xuất Bản Dân Trí
 147920905,Đường Mây Qua Xứ Tuyết (Tái Bản),Lama Anagarika Govinda,118000,77800,547,Sách Địa Danh - Du Lịch,81,5.0,320,Nhà Xuất Bản Thế Giới
 75630595,The Design Thinking Playbook- Thực Hành Tư Duy Thiết Kế,Michael Patrick Larry,299000,188370,1988,Sách kỹ năng làm việc,340,4.8,352,Nhà Xuất Bản Công Thương
-201437949,Dragon Quest - Dấu Ấn Roto (Dragon Quest Saga Emblem Of Roto) Perfect Edition - Tập 11,Nhiều tác giả,75000,70000,325,Khác,37,5.0,263,Nhà Xuất Bản Kim Đồng
+201437949,Dragon Quest - Dấu Ấn Roto (Dragon Quest Saga Emblem Of Roto) Perfect Edition - Tập 11,Nhiều tác giả,75000,70000,325,Khác,37,5.0,264,Nhà Xuất Bản Kim Đồng
 106864418,Combo 10 Cuốn: Chuyện Xóm Gà,Christian Jolibois,580000,336400,1101,Truyện tranh thiếu nhi,192,5.0,102,Nhà Xuất Bản Hà Nội
 130997085,Chuyện Con Chó Tên Là Trung Thành,Luis Sepulveda,45000,27000,526,Văn học thiếu nhi,47,5.0,95,Nhà Xuất Bản Hội Nhà Văn
 206308058,Người con,Georges Simenon,130000,78000,89,Truyện trinh thám,5,5.0,265,Nhà Xuất Bản Hội Nhà Văn
 140416373,Hành Trình Về Phương Đông (Khổ Nhỏ)(Tái Bản),Baird T. Spalding,78000,51400,1291,Khác,231,5.0,360,Nhà Xuất Bản Thế Giới
-111849841,ĐƯỜNG XƯA MÂY TRẮNG BÌA CỨNG,Không rõ,313000,313000,3,Khác,1,5.0,263,Nhà Xuất Bản Hồng Đức
+111849841,ĐƯỜNG XƯA MÂY TRẮNG BÌA CỨNG,Không rõ,313000,313000,3,Khác,1,5.0,264,Nhà Xuất Bản Hồng Đức
 179063564,Tôi Tự Học,Thu Giang Nguyễn Duy Cần,120000,88300,757,Sách tư duy - Kỹ năng sống,85,5.0,392,NXB Trẻ
 129381098,Tiếp Thị 5.0: Công Nghệ Vị Nhân Sinh,Philip Kotler,120000,88100,2792,Sách kỹ năng làm việc,366,5.0,306,NXB Trẻ
 205336477,Migi & Dali - Tập 7,Nami Sano,40000,39000,147,Khác,9,5.0,200,Nhà Xuất Bản Kim Đồng
 75813201,Không Đến Một (Tái Bản - Bìa Cam),Peter Thiel,110000,77900,1824,Sách khởi nghiệp,263,5.0,276,NXB Trẻ
 170345816,Cẩm Nang Chăm Sóc Bé Sơ Sinh (Bữa Ăn Và Giấc Ngủ),Hachun Lyonnet (Hà Chũn),159000,111300,237,Sách Làm Cha Mẹ,18,5.0,64,Nhà Xuất Bản Lao Động
-204805810,Bá Tước Tiểu Thư - Tập 7,Chieko Hosokawa,30000,28100,118,Khác,8,5.0,263,Nhà Xuất Bản Kim Đồng
+204805810,Bá Tước Tiểu Thư - Tập 7,Chieko Hosokawa,30000,28100,118,Khác,8,5.0,264,Nhà Xuất Bản Kim Đồng
 152740748,Lối Sống Tối Giản Của Người Nhật (Tái Bản),Sasaki Fumio,119000,83300,1711,Sách nghệ thuật sống đẹp,259,4.8,298,Nhà Xuất Bản Lao Động
 77900454,Bí Mật Của Nước (Tái Bản),Masura Emoto,89000,62300,1766,Sách nghệ thuật sống đẹp,242,4.8,200,Nhà Xuất Bản Lao Động
 79672197,Bí Mật Của May Mắn (Khổ Nhỏ)(Tái Bản),Alex Rovira,45000,25600,5154,Sách nghệ thuật sống đẹp,350,5.0,160,Nhà Xuất Bản Tổng hợp TP.HCM
 145300494,The Mastery Of Self - Hành Trình Thấu Hiểu Bản Thân Và Tìm Thấy Tự Do,Don Miguel Ruiz JR.,180000,120600,648,Sách tư duy - Kỹ năng sống,88,4.8,314,Nhà Xuất Bản Thế Giới
-204363219,Ninja Rantaro - Tập 65,Soubee Amako,40000,39100,131,Khác,6,5.0,263,Nhà Xuất Bản Kim Đồng
+204363219,Ninja Rantaro - Tập 65,Soubee Amako,40000,39100,131,Khác,6,5.0,264,Nhà Xuất Bản Kim Đồng
 49910019,Bác Sĩ Riêng Của Bé Yêu - Chào Con! Ba Mẹ Đã Sẵn Sàng (Tái Bản),BS. Trần Thị Huyên Thảo,95000,65500,5235,Sách Làm Cha Mẹ,523,5.0,224,NXB Trẻ
 67040913,The Magic - Phép Màu (2020),Rhowa Byrne,158000,158000,2614,Sách tư duy - Kỹ năng sống,376,4.8,318,Nhà Xuất Bản Thế Giới
 116406678,Quản Lý Nghiệp (Tái Bản),Geshe Michael Roach,59000,41300,1144,Bài học kinh doanh,63,5.0,159,Nhà Xuất Bản Lao Động
-203763651,Vua Sáng Chế - Tập 21,Không rõ,20000,18000,185,Khác,14,5.0,263,Nhà Xuất Bản Kim Đồng
+203763651,Vua Sáng Chế - Tập 21,Không rõ,20000,18000,185,Khác,14,5.0,264,Nhà Xuất Bản Kim Đồng
 74460137,Bí Quyết Áp Dụng 7 Thói Quen Của Bạn Trẻ Thành Đạt (Khổ Nhỏ)(Tái Bản),Sean Covey,108000,71200,1968,Sách tư duy - Kỹ năng sống,315,4.8,392,Nhà Xuất Bản Tổng hợp TP.HCM
 31509726,Làm Bạn Với Bầu Trời (Bìa Mềm) (Tặng Kèm Khung Ảnh Số Lượng Có Hạn),Nguyễn Nhật Ánh,110000,75001,26282,Truyện dài,2043,5.0,220,Không rõ
 148750882,Khi Mọi Thứ Sụp Đổ - Lời Khuyên Chân Thành Trong Những Thời Điểm Khó Khăn,Pema Chodron,119000,83300,1001,Sách tư duy - Kỹ năng sống,125,4.8,316,Nhà Xuất Bản Hà Nội
-200694865,Kingdom - Tập 36,Yasuhisa Hara,45000,39100,218,Khác,15,5.0,263,NXB Trẻ
-202851051,Bá Tước Tiểu Thư - Tập 6,Không rõ,30000,30000,166,Khác,11,5.0,263,Nhà Xuất Bản Kim Đồng
+200694865,Kingdom - Tập 36,Yasuhisa Hara,45000,39100,218,Khác,15,5.0,264,NXB Trẻ
+202851051,Bá Tước Tiểu Thư - Tập 6,Không rõ,30000,30000,166,Khác,11,5.0,264,Nhà Xuất Bản Kim Đồng
 87226756,"Những Đêm Không Ngủ, Những Ngày Chậm Trôi",A Crazy Mind team,86000,55001,7559,Truyện ngắn - Tản văn - Tạp Văn,1903,4.8,192,Nhà Xuất Bản Văn Học
 78598381,Tâm Lý Học Tính Cách (Tặng Kèm: 1 Bookmark),Trâu Hoành Minh,109000,66580,5839,Sách tư duy - Kỹ năng sống,1258,5.0,312,Nhà Xuất Bản Phụ Nữ Việt Nam
 179735872,Sách Tâm Lý Dành Cho Người Nhạy Cảm,Hiroko Mizushima,89000,62001,1710,Sách tư duy - Kỹ năng sống,166,4.8,176,Nhà Xuất Bản Thế Giới
@@ -407,11 +406,11 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 149180057,Đừng Cố Làm Người Tốt Trong Mắt Tất Cả Mọi Người,Không rõ,108000,93000,1389,Sách tư duy - Kỹ năng sống,197,5.0,256,Nhà Xuất Bản Đồng Nai
 126853168,Thấu hiểu Hành vi giá Thị trường Tài chính (Understanding Price Action),Không rõ,367000,367000,98,"Sách tài chính, tiền tệ",21,4.7,448,Nhà Xuất Bản Thanh Niên
 205942273,Kỳ Nữ Gò Ôn Khâu,Hoài Điệp Thứ Lang,170000,102000,53,Tiểu Thuyết,1,5.0,433,Nhà Xuất Bản Hội Nhà Văn
-204363212,Kaguya-Sama: Cuộc Chiến Tỏ Tình - Tập 5,Aka Akasaka,40000,39100,278,Khác,14,5.0,263,Nhà Xuất Bản Kim Đồng
+204363212,Kaguya-Sama: Cuộc Chiến Tỏ Tình - Tập 5,Aka Akasaka,40000,39100,278,Khác,14,5.0,264,Nhà Xuất Bản Kim Đồng
 205749384,Gia Định Là Nhớ - Sài Gòn Là Thương,Cù Mai Công,118000,77800,73,Lịch Sử Việt Nam,6,4.8,224,Nhà Xuất Bản Tổng hợp TP.HCM
 112106439,GIẢI MÃ HÀNH VI ĐỌC VỊ CẢM XÚC,Không rõ,129000,83000,1071,Sách tư duy - Kỹ năng sống,165,4.7,318,NXB Đại học Kinh Tế Quốc Dân
 207475536,"Vivre Card - Thẻ Dữ Liệu Nhân Vật One Piece Booster Pack - Những Kẻ Thực Thi ""Chính Nghĩa Hắc Ám""! CP9!!",Eiichiro Oda,25000,25000,29,Khác,3,5.0,32,Nhà Xuất Bản Kim Đồng
-202851053,"""Cậu"" Ma Nhà Xí Hanako - Tập 0",Không rõ,30000,28000,518,Khác,60,4.8,263,Nhà Xuất Bản Kim Đồng
+202851053,"""Cậu"" Ma Nhà Xí Hanako - Tập 0",Không rõ,30000,28000,518,Khác,60,4.8,264,Nhà Xuất Bản Kim Đồng
 21146760,Kinh Doanh - Khái Lược Những Tư Tưởng Lớn,DK,390000,262000,3139,Bài học kinh doanh,299,4.8,352,Không rõ
 158019964,Combo 4 Cuốn Bộ Sách: Nuôi Con Không Phải Là Cuộc Chiến (Tái Bản),"Mẹ Ong Bông, Hachun Lyonnet, Bubu Hương",476000,333200,987,Sách Làm Cha Mẹ,135,5.0,1050,Nhà Xuất Bản Lao Động
 140360874,Những Đòn Tâm Lý Trong Bán Hàng (Tái Bản),Brian Tracy,139000,91100,567,Sách Marketing - Bán hàng ,58,5.0,332,Nhà Xuất Bản Lao Động
@@ -420,7 +419,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 126474205,Làm giàu từ chứng khoán bằng phương pháp VSA chính gốc: Nghiên cứu chuyên sâu về cách giao dịch của Wyckoff,Rubén Villahermosa Chaves,499000,499000,3273,"Sách tài chính, tiền tệ",636,4.8,278,Nhà Xuất Bản Thế Giới
 189940724,Triệu Phú Khu Ổ Chuột,Vikas Swarup,126000,75600,194,Truyện ngắn - Tản văn - Tạp Văn,25,5.0,446,Nhà Xuất Bản Hội Nhà Văn
 73102465,Bé Tô màu - Combo 11 cuốn,Không rõ,132000,61400,1749,Tô màu - Luyện chữ  ,331,4.8,16,Nhà Xuất Bản Mỹ Thuật
-201048329,Slam Dunk - Deluxe Edition - Tập 11,Takehiko Inoue,60000,60000,365,Khác,32,5.0,263,Nhà Xuất Bản Kim Đồng
+201048329,Slam Dunk - Deluxe Edition - Tập 11,Takehiko Inoue,60000,60000,365,Khác,32,5.0,264,Nhà Xuất Bản Kim Đồng
 13528057,Người Minh Họa,Ray Bradbury,118000,93500,649,Tiểu Thuyết,50,4.6,362,Không rõ
 54422942,Tôi Quyết Định Sống Cho Chính Tôi (Tái Bản 2020),Kim Suhyun,88000,53560,3829,Sách tư duy - Kỹ năng sống,917,5.0,318,Nhà Xuất Bản Thanh Niên
 168559521,Sự Trung Thực Của Xác Chết – Ghi Chép Của Một Nhà Pháp Y,Hajime Nishio,99000,69300,1105,Khác,188,5.0,240,Nhà Xuất Bản Thế Giới
@@ -449,10 +448,10 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 58213080,Montessori – Phương Pháp Giáo Dục Toàn Diện Cho Trẻ 0-6 Tuổi,Ito Mika,119000,84000,2624,Sách Làm Cha Mẹ,334,5.0,240,Nhà Xuất Bản Dân Trí
 173745189,Clean Code – Mã Sạch Và Con Đường Trở Thành Lập Trình Viên Giỏi,Robert Cecil Martin,386000,303000,340,Sách tư duy - Kỹ năng sống,61,4.7,596,Nhà Xuất Bản Dân Trí
 113530804,Nếu Em Không Phải Giấc Mơ (Tái Bản),Marc Levy,89000,53400,210,Tiểu Thuyết,31,4.8,301,Nhà Xuất Bản Hội Nhà Văn
-195801686,Black Jack - Tập 13 (Bìa Mềm),Osamu Tezuka,30000,26100,666,Khác,59,5.0,263,NXB Trẻ
+195801686,Black Jack - Tập 13 (Bìa Mềm),Osamu Tezuka,30000,26100,666,Khác,59,5.0,264,NXB Trẻ
 104074993,Nhảy Nhảy Nhảy (Tái Bản),Haruki Murakami,169000,101400,802,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,175,5.0,568,Nhà Xuất Bản Hội Nhà Văn
 10379317,Nghệ Thuật Giao Tiếp Để Thành Công (Tái Bản 2019),Leil Lowndes,169000,111000,5489,Sách tư duy - Kỹ năng sống,568,4.8,440,Không rõ
-203757842,Migi & Dali - Tập 6,Nami Sano,40000,38100,169,Khác,10,5.0,263,Nhà Xuất Bản Kim Đồng
+203757842,Migi & Dali - Tập 6,Nami Sano,40000,38100,169,Khác,10,5.0,264,Nhà Xuất Bản Kim Đồng
 41299108,Trở Về Từ Cõi Sáng (Tái Bản),Nguyên Phong,98000,64600,5353,Sách tư duy - Kỹ năng sống,564,4.8,208,Không rõ
 27589910,"Bố Xấu, Bố Tốt",David Walliams,128000,101000,1521,Văn học thiếu nhi,129,4.8,444,Không rõ
 152875147,Miền Đất Hứa - Barack Obama (Bìa Cứng),Barack Obama,768000,338001,1841,Tiểu sử - Hồi ký,228,5.0,1072,Nhà Xuất Bản Dân Trí
@@ -463,7 +462,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 203231461,SIGNS Thông Điệp Bí Ẩn Từ Vũ Trụ,Laura Lynne Jackson,129000,95400,65,Lĩnh vực khác,4,4.8,376,Nhà Xuất Bản Thanh Niên
 207475552,Vua Sáng Chế Tập 23,Tatsuki Nohda,20000,20000,34,Khác,4,5.0,192,Nhà Xuất Bản Kim Đồng
 205942265,Infinite Dendrogram 3 - Đại Chiến Siêu Cấp,Kaidou Sakon,130000,78000,45,Light novel,8,5.0,352,Nhà Xuất Bản Hà Nội
-205423656,Nhân Duyên Tiền Kiếp,Không rõ,195000,195000,1121,Khác,0,0.0,263,Nhà Xuất Bản Thanh Niên
+205423656,Nhân Duyên Tiền Kiếp,Không rõ,195000,195000,1131,Khác,0,0.0,264,Nhà Xuất Bản Thanh Niên
 17960478,RIO Book No.3 - Hình Ảnh Điều Khiển Tâm Trí - 33 Kỹ Thuật Điều Khiển Tâm Lý Trong Truyền Thông Thị Giác,Andrews - Van leeuwen - Van Baaren ,155000,108500,2127,Sách Marketing - Bán hàng ,213,4.8,334,Nhà Xuất Bản Dân Trí
 178483637,Nước Ép Trị Liệu Và Chế Độ Ăn Theo Phương Pháp Cơ Thể Tự Chữa Lành,Emma Phạm,199000,139300,1792,Khác,219,5.0,340,Nhà Xuất Bản Thế Giới
 94803499,Rừng Sâu Tăm Tối,Ruth Ware,165000,156750,11,Tiểu Thuyết,5,4.8,432,Nhà Xuất Bản Hội Nhà Văn
@@ -478,9 +477,9 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 129381090,Minh Triết Trong Đời Sống (Tái Bản),Darshani Deane,108000,71200,1006,Sách tư duy - Kỹ năng sống,138,5.0,288,Nhà Xuất Bản Thế Giới
 3644267,Đặc Quyền Của Gái Hư,Kara King,86000,67100,15646,Sách tư duy - Kỹ năng sống,572,4.6,284,Không rõ
 7326881,Những Nguyên Tắc Đạo Đức Trong Giáo Dục,John Dewey,50000,50000,3,Sách tư duy - Kỹ năng sống,0,0.0,96,Nhà Xuất Bản Đà Nẵng
-198419657,Chú Thuật Hồi Chiến - Tập 7,Không rõ,30000,30000,2447,Khác,584,5.0,263,Nhà Xuất Bản Kim Đồng
+198419657,Chú Thuật Hồi Chiến - Tập 7,Không rõ,30000,30000,2447,Khác,584,5.0,264,Nhà Xuất Bản Kim Đồng
 177321531,"Súng, Vi Trùng Và Thép",Jared Diamond,299000,194000,415,Kiến Thức Bách Khoa,63,5.0,660,Nhà Xuất Bản Thế Giới
-205802190,Thám Tử Lừng Danh Conan - Tập 100 - Bìa Gập - Tặng Kèm Postcard Vuông Conan 100,Gosho Aoyama,20000,20000,79,Khác,6,5.0,263,Nhà Xuất Bản Kim Đồng
+205802190,Thám Tử Lừng Danh Conan - Tập 100 - Bìa Gập - Tặng Kèm Postcard Vuông Conan 100,Gosho Aoyama,20000,20000,79,Khác,6,5.0,264,Nhà Xuất Bản Kim Đồng
 198127380,Harry Potter và Hội Phượng Hoàng - Bản Màu Bìa Cứng,J.K. Rowling,1500000,1050700,303,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,59,4.8,407,NXB Trẻ
 76278485,Ảo Dạ (Tái Bản),Higashino Keigo,179000,107400,817,Truyện trinh thám,206,5.0,584,Nhà Xuất Bản Hà Nội
 50668886,"Thiện, Ác Và Smart Phone (Tái Bản)",Đặng Hoàng Giang,105000,63000,2124,Phóng sự - Ký sự - Bút ký,371,5.0,307,Nhà Xuất Bản Hội Nhà Văn
@@ -489,11 +488,11 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 56218385,Thông Điệp Của Nước (Tái Bản 2020),Masaru Emoto,89000,62300,2957,Sách tư duy - Kỹ năng sống,406,4.7,146,Nhà Xuất Bản Lao Động
 76286239,Súng Săn,Yasushi Inoue,79000,31600,237,Tiểu Thuyết,32,4.8,104,Nhà Xuất Bản Hội Nhà Văn
 94173462,Muôn Kiếp Nhân Sinh 2,Nguyên Phong,268000,176800,23606,Khác,5447,5.0,540,Nhà Xuất Bản Tổng hợp TP.HCM
-202015697,Văn Phòng Thám Tử Quái Vật - Tập 15,Sho Aimoto,30000,26100,209,Khác,24,5.0,263,NXB Trẻ
-203763653,Vivre Card - Thẻ Dữ Liệu Nhân Vật One Piece Booster Pack - Kẻ Chi Phối Đáng Sợ! Gia Tộc Donquixote!!,Không rõ,25000,24900,148,Khác,11,5.0,263,Nhà Xuất Bản Kim Đồng
+202015697,Văn Phòng Thám Tử Quái Vật - Tập 15,Sho Aimoto,30000,26100,209,Khác,24,5.0,264,NXB Trẻ
+203763653,Vivre Card - Thẻ Dữ Liệu Nhân Vật One Piece Booster Pack - Kẻ Chi Phối Đáng Sợ! Gia Tộc Donquixote!!,Không rõ,25000,24900,148,Khác,11,5.0,264,Nhà Xuất Bản Kim Đồng
 750578,Khi Hơi Thở Hóa Thinh Không,Paul Kalanithi,109000,68670,59734,Tiểu sử - Hồi ký,2099,4.7,236,Không rõ
 124767704,Bạn Đắt Giá Bao Nhiêu? (Tái Bản),Vãn Tình,119000,94100,1574,Sách tư duy - Kỹ năng sống,257,4.8,336,Nhà Xuất Bản Thế Giới
-35785372,Y Học Dinh Dưỡng - Những Điều Bác Sĩ Không Nói Với Bạn,Không rõ,169000,110000,4568,Khác,458,4.8,263,Không rõ
+35785372,Y Học Dinh Dưỡng - Những Điều Bác Sĩ Không Nói Với Bạn,Không rõ,169000,110000,4568,Khác,458,4.8,264,Không rõ
 200619302,Anh em phi hành gia - Tập 35,Chuya Koyama,45000,39100,220,Khác,16,4.8,204,NXB Trẻ
 138226289,Storytelling With Data: Let’S Practice! - Thực Hành Kể Chuyện Thông Qua Dữ Liệu!,Cole Nussbaumer Knaflic,399000,279000,1472,Sách kỹ năng làm việc,239,5.0,436,Nhà Xuất Bản Thế Giới
 66452062,Trái Tim Của Brutus,Higashino Keigo,138000,82800,2247,Truyện trinh thám,465,4.8,348,Nhà Xuất Bản Hà Nội
@@ -503,7 +502,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 199045170,Dragon Ball Full Color - Phần Năm: Truy Lùng Cell Bọ Hung - Tập 5,Akira Toriyama,77000,70100,437,Khác,48,5.0,224,Nhà Xuất Bản Kim Đồng
 7544175,Một Trăm Cái Bóng,Hwang Jungeun,70000,52000,848,Tiểu Thuyết,37,4.8,148,Không rõ
 74981856,"Gửi Bạn, Người Đã Kiệt Sức Vì Những Chịu Đựng Âm Thầm [Tặng Kèm: 1 Bookmark Daisy]",Geulbaewoo,96000,62001,2883,Truyện ngắn - Tản văn - Tạp Văn,668,5.0,284,Nhà Xuất Bản Thế Giới
-201892202,Anh Em Phi Hành Gia - Tập 36,Chuya Koyama,45000,36000,149,Khác,12,5.0,263,NXB Trẻ
+201892202,Anh Em Phi Hành Gia - Tập 36,Chuya Koyama,45000,36000,149,Khác,12,5.0,264,NXB Trẻ
 173882437,8 Vụ Án Hoàn Hảo - Vạch Trần Tâm Lý Kẻ Phạm Tội,Peter Swanson,145000,104000,1496,Sách tư duy - Kỹ năng sống,329,4.8,296,Nhà Xuất Bản Thanh Niên
 44433397,"Yêu Mình Trước Đã, Yêu Đời Để Sau",Vex King,109000,70001,5252,Sách tư duy - Kỹ năng sống,597,4.8,343,Không rõ
 173763072,Tâm Lý Học Hẹn Hò - Nghệ Thuật Giao Tiếp Trong Tình Yêu,Nhiều tác giả,109000,76001,1336,Sách tư duy - Kỹ năng sống,142,4.8,280,Nhà Xuất Bản Dân Trí
@@ -511,10 +510,10 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 207494302,Tiểu Thuyết One Piece Film RED [Tặng Kèm Bìa Áo Và Poster Gập Sẵn Bên Trong],Eiichiro Oda,65000,65000,46,Khác,8,5.0,244,Nhà Xuất Bản Kim Đồng
 177321527,Cường Quốc Trong Tương Lai,Hamada Kazuyuki,119000,74200,148,Sách kinh tế học,17,5.0,280,Nhà Xuất Bản Thế Giới
 130233544,Mèo Và Triết Lý Nhân Sinh - Mèo Đã Dạy Chúng Ta Điều Gì Về Cuộc Sống,John Gray,209000,137000,2672,Sách tư duy - Kỹ năng sống,417,4.8,276,Nhà Xuất Bản Thanh Niên
-198415075,Ikigami - Tập 10,Motoro MASE,45000,39100,287,Khác,25,5.0,263,NXB Trẻ
+198415075,Ikigami - Tập 10,Motoro MASE,45000,39100,287,Khác,25,5.0,264,NXB Trẻ
 206308045,Yu-Gi-Oh! Gx Tập 3: Vòng Bảng Kết Thúc!! [Tặng Kèm Bookmark PVC],Kazuki Takahashi,30000,29100,74,Khác,6,4.8,192,Nhà Xuất Bản Kim Đồng
 12055610,Bàn Về Khoa Học,Leon Tolstoy,50000,45000,9,Kiến Thức Bách Khoa,0,0.0,80,Không rõ
-196515658,Blue Period - Tập 04,Yasuhisa Hara,48000,38400,683,Khác,109,5.0,263,NXB Trẻ
+196515658,Blue Period - Tập 04,Yasuhisa Hara,48000,38400,683,Khác,109,5.0,264,NXB Trẻ
 192733741,Mùi hương - Tái Bản,Patrick Suskind,115000,69000,160,Tác phẩm kinh điển,24,5.0,488,Nhà Xuất Bản Văn Học
 73316977,Hành Trình Của Linh Hồn (Tái Bản 2020),Michael Duff Newton,129000,90300,1874,Khác,281,4.8,430,Nhà Xuất Bản Văn Hoá Dân Tộc
 2216865,Pierre Và Jean,Guy De Maupassant,68000,53500,447,Tiểu Thuyết,35,4.8,236,Không rõ
@@ -534,7 +533,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 13446508,Cánh Đồng Bất Tận (Tái Bản 2019),Nguyễn Ngọc Tư,85000,60400,5665,Truyện ngắn - Tản văn - Tạp Văn,714,5.0,220,Không rõ
 69978860,Sói đội lốt Cừu - Kẻ hiếu chiến ngầm và các thủ thuật thao túng tâm lí,Bác sĩ George K. Simon,72000,70000,4169,Sách tư duy - Kỹ năng sống,826,4.8,172,Nhà Xuất Bản Kinh Tế TPHCM
 36363381,Sao Chúng Ta Lại Ngủ,Matthew Walker PhD,249000,175200,1724,Sách tư duy - Kỹ năng sống,337,5.0,488,Nhà Xuất Bản Lao Động
-201437947,Komi - Nữ Thần Sợ Giao Tiếp - Tập 14,Tomohito Oda,25000,25000,239,Khác,37,5.0,263,Nhà Xuất Bản Kim Đồng
+201437947,Komi - Nữ Thần Sợ Giao Tiếp - Tập 14,Tomohito Oda,25000,25000,239,Khác,37,5.0,264,Nhà Xuất Bản Kim Đồng
 206675362,Nâng Cao Tần Số Rung Động Mỗi Ngày: Khám Phá Cách Năng Lượng Vận Hành,Lalah Delia,135000,135000,67,Sách tư duy - Kỹ năng sống,3,4.3,220,Nhà Xuất Bản Hồng Đức
 191045565,Cô Gái Mặc Váy Tím,Imamura Natsuko,95000,57000,262,Truyện ngắn - Tản văn - Tạp Văn,24,5.0,160,Nhà Xuất Bản Hà Nội
 168924459,Tàn Lửa,Shizukui Shusuke,185000,111000,749,Truyện trinh thám,148,5.0,484,Nhà Xuất Bản Hà Nội
@@ -547,8 +546,8 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 50475521,Đánh Thức Con Người Phi Thường Trong Bạn (Tái Bản 2020),Anthony Robbins,168000,95700,5750,Sách tư duy - Kỹ năng sống,796,4.8,408,Nhà Xuất Bản Tổng hợp TP.HCM
 205928397,Hoàng Hậu Đỏ - Tình Dục Và Sự Tiến Hóa Của Bản Tính Người,Matt Rioley,299000,188370,19,Lĩnh vực khác,0,0.0,452,Nhà Xuất Bản Thế Giới
 205617693,Sách Gia Định Là Nhớ Sài Gòn Là Thương - First News,Cù Mai Công,118000,100300,759,Phóng sự - Ký sự - Bút ký,0,0.0,441,Nhà Xuất Bản Dân Trí
-200694869,Shaman King - Tập 19,Hiroyuki Takei,35000,28000,190,Khác,19,5.0,263,NXB Trẻ
-200630838,Bá Tước Tiểu Thư - Tập 5,Chieko Hosokawa,30000,30000,227,Khác,22,5.0,263,Nhà Xuất Bản Kim Đồng
+200694869,Shaman King - Tập 19,Hiroyuki Takei,35000,28000,190,Khác,19,5.0,264,NXB Trẻ
+200630838,Bá Tước Tiểu Thư - Tập 5,Chieko Hosokawa,30000,30000,227,Khác,22,5.0,264,Nhà Xuất Bản Kim Đồng
 205756946,Vua Sáng Chế Tập 22,Tatsuki Nohda,20000,20000,78,Khác,6,5.0,192,Nhà Xuất Bản Kim Đồng
 100947274,Tìm Bình Yên Trong Gia Đình (Tái Bản),Thích Nhất Hạnh,99000,69300,1050,Sách nghệ thuật sống đẹp,94,5.0,302,Nhà Xuất Bản Thế Giới
 194205626,Ngụy Chứng Của Solomon - Tập 1 Vụ Án,Miyabe Miyuki,330000,198000,220,Truyện ngắn - Tản văn - Tạp Văn,32,4.8,648,Nhà Xuất Bản Dân Trí
@@ -562,7 +561,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 766164,Chuyện Tình Đích Thực Siêu Buồn,Gary Shteyngart,119000,90000,548,Tiểu Thuyết,22,4.3,402,Không rõ
 195801674,Khúc Hát Của Chim Ca Và Rắn Độc,Suzanne Collins,236000,159001,171,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,18,5.0,644,Nhà Xuất Bản Hội Nhà Văn
 93734071,Trí Thông Minh Trên Giường,Esther Perel,219000,170800,170,Sách Hôn Nhân - Giới Tính,22,4.7,484,Nhà Xuất Bản Thanh Niên
-200619497,Cô Bạn Tôi Thầm Thích Lại Quên Mang Kính Rồi - Tập 6,Koume Fujichika,38000,37000,257,Khác,38,4.8,263,Nhà Xuất Bản Kim Đồng
+200619497,Cô Bạn Tôi Thầm Thích Lại Quên Mang Kính Rồi - Tập 6,Koume Fujichika,38000,37000,257,Khác,38,4.8,264,Nhà Xuất Bản Kim Đồng
 58441509,Ăn Uống Đúng Cách: Bộ Quy Tắc Ẩm Thực Lành Mạnh,Michael Pollan,116000,69600,3107,Khác,461,4.7,170,Nhà Xuất Bản Thế Giới
 199241861,Arya Bàn Bên Thỉnh Thoảng Lại Trêu Ghẹo Tôi Bằng Tiếng Nga – Tập 1,Sunsunsun,95000,74000,816,Khác,147,4.7,304,Nhà Xuất Bản Kim Đồng
 188548615,Combo Chiến Tranh Tiền Tệ 1+2+3+4 ( Song Hong Bing ),Không rõ,497000,497000,3555,"Sách tài chính, tiền tệ",0,0.0,452,Nhà Xuất Bản Lao Động
@@ -576,13 +575,13 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 194104633,Ăn Chay Cùng Nhi,Dương Yến Nhi,249000,160800,437,Sách Nấu ăn,47,5.0,192,Nhà Xuất Bản Phụ Nữ Việt Nam
 73222800,Nghĩ Giàu Và Làm Giàu (Khổ Nhỏ),Napoleon Hill,108000,71200,1535,Bài học kinh doanh,277,4.7,416,Nhà Xuất Bản Tổng hợp TP.HCM
 198296788,Thân Tâm Trí,Daniel J. Siegel,159000,106000,130,Sách tư duy - Kỹ năng sống,5,3.8,352,Nhà Xuất Bản Thanh Niên
-197634256,Black Jack - Tập 14 (Bìa Cứng),Osamu Tezuka,135000,117400,290,Khác,30,5.0,263,NXB Trẻ
+197634256,Black Jack - Tập 14 (Bìa Cứng),Osamu Tezuka,135000,117400,290,Khác,30,5.0,264,NXB Trẻ
 202650475,Chiến Quốc Tung Hoành - Thế Cục Quỷ Cốc Tử Tập 13,Hàn Xuyên Tử,220000,163000,86,Tiểu Thuyết,14,5.0,588,Nhà Xuất Bản Văn Học
 195187480,"Thiên Quan Tứ Phúc - Tập 6 (Tiểu thuyết, đam mỹ)",Mặc Hương Đồng Khứu,159000,119000,480,Truyện đam mỹ,112,5.0,368,Nhà Xuất Bản Hà Nội
 198414191,Hành Trình Nhân Loại Nguồn Gốc Của Thịnh Vượng Và Bất Bình Đẳng ( Bìa mềm),Oded Galor,229000,156000,275,Kiến Thức Bách Khoa,23,4.7,300,Nhà Xuất Bản Dân Trí
 196001721,Sự Trỗi Dậy Và Suy Tàn Của Các Cường Quốc ( Tái bản),Paul Kennedy,567000,392000,205,Lịch Sử Thế Giới,31,4.8,944,Nhà Xuất Bản Thế Giới
 169546325,Lời Hứa Về Một Cây Bút Chì (Tái Bản),Adam Braun,159000,108000,227,Sách tư duy - Kỹ năng sống,46,5.0,364,Nhà Xuất Bản Thế Giới
-201431426,Vua Sáng Chế - Tập 20,Tatsuki Nohda,20000,19100,210,Khác,19,5.0,263,Nhà Xuất Bản Kim Đồng
+201431426,Vua Sáng Chế - Tập 20,Tatsuki Nohda,20000,19100,210,Khác,19,5.0,264,Nhà Xuất Bản Kim Đồng
 107026337,Eleanor Oliphant Hoàn Toàn Ổn,Gail Honeyman,186000,102300,921,Tiểu Thuyết,210,5.0,496,Nhà Xuất Bản Hội Nhà Văn
 47242742,Ma Thuật Bị Cấm,Higashino Keigo,115000,69000,2213,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,303,4.7,300,Nhà Xuất Bản Hà Nội
 11371241,1Q84 (Tập 1) - Tái Bản,Haruki Murakami,138000,82800,991,Tiểu Thuyết,118,4.8,374,Không rõ
@@ -592,7 +591,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 72202103,Con Chim Xanh Biếc Bay Về (Nguyễn Nhật Ánh) (Bìa Mềm),Nguyễn Nhật Ánh,150000,108100,16154,Tiểu Thuyết,4284,5.0,396,NXB Trẻ
 66090079,Cơ Thể Tự Chữa Lành: Giải Cứu Gan,Anthony William,250000,152000,4579,Khác,815,5.0,624,Nhà Xuất Bản Thanh Niên
 9695881,Nghệ Thuật đầu tư Dhandho - The Dhandho Investor,Mohnish Pabrai,238000,238000,10662,"Sách tài chính, tiền tệ",1740,4.8,260,Nhà Xuất Bản Thế Giới
-204363203,Lớp Học Rùng Rợn - Tập 3,Emi Ishikawa,30000,30000,117,Khác,7,5.0,263,Nhà Xuất Bản Kim Đồng
+204363203,Lớp Học Rùng Rợn - Tập 3,Emi Ishikawa,30000,30000,117,Khác,7,5.0,264,Nhà Xuất Bản Kim Đồng
 100376369,Đứa Con Gái Hoang Đàng - Hai Số Phận - Phần II,Jeffrey Archer,185000,125000,3058,Tiểu Thuyết,747,4.6,836,Nhà Xuất Bản Lao Động
 197719874,Suy Nghĩ Thống Kê Trong Đời Thường,Nguyễn Văn Tuấn,160000,136000,804,Sách kỹ năng làm việc,91,5.0,392,Nhà Xuất Bản Tổng hợp TP.HCM
 69162891,Mang Thai Sinh Nở Và Nuôi Con Khỏe Mạnh  Cuốn Sách Về Mang Thai Được Tìm Kiếm Nhiều Nhất Tại Hàn Quốc,Kim Geon Oh,265000,190800,1972,Sách Thai Giáo,366,5.0,384,Nhà Xuất Bản Hồng Đức
@@ -622,7 +621,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 196290947,Kỷ Luật Là Sức Mạnh,Time Cương Cương Hảo,119000,85900,265,Sách tư duy - Kỹ năng sống,19,4.7,224,Nhà Xuất Bản Thế Giới
 17881046,Trầm lặng - Sức mạnh tiềm ẩn của người hướng nội,Susan Cain,120000,86400,1959,Sách tư duy - Kỹ năng sống,346,4.8,252,Không rõ
 32192510,"Madame Chic - Rất Thần Thái, Rất Paris",Jennifer L. Scott,99000,60380,8204,Sách Làm Đẹp,874,4.8,256,Không rõ
-191571494,Black Jack - Tập 12,Osamu Tezuka,30000,26100,705,Khác,75,5.0,263,NXB Trẻ
+191571494,Black Jack - Tập 12,Osamu Tezuka,30000,26100,705,Khác,75,5.0,264,NXB Trẻ
 10405966,Tarot Nhập Môn (Tái Bản 2019),Kim Huggens,120000,72000,4529,Tiểu Thuyết,496,4.8,455,Không rõ
 115078649,Bitna Dưới Bầu Trời Seoul,J.M.G.Le Clezio,108000,54000,264,Tiểu Thuyết,43,5.0,232,Nhà Xuất Bản Hội Nhà Văn
 5112975,Marketing giỏi phải kiếm được tiền - The end of marketing as we know it,Không rõ,299000,299000,12151,Sách Marketing - Bán hàng ,945,4.7,408,Nhà Xuất Bản Thế Giới
@@ -656,9 +655,9 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 114046590,Chân Dung Của Dorian Gray,Oscar Wilde,126000,75600,1278,Tiểu Thuyết,300,4.8,336,Nhà Xuất Bản Hội Nhà Văn
 7440075,Lâu Đài Trên Mây,Diana Wynne Jones,96000,70100,1692,Tiểu Thuyết,121,4.8,328,Không rõ
 59618902,Ehon - Hướng Dẫn Sử Dụng Mẹ (Tái Bản 2020),Miku Ito,59000,41300,2545,Truyện tranh Ehon,291,4.8,130,Nhà Xuất Bản Lao Động
-197634255,Anh em phi hành gia - Tập 34,Chuya Koyama,45000,39100,254,Khác,22,4.8,263,NXB Trẻ
+197634255,Anh em phi hành gia - Tập 34,Chuya Koyama,45000,39100,254,Khác,22,4.8,264,NXB Trẻ
 160488838,Axit Và Kiềm Trong Thực Dưỡng (Tái Bản),Herman Aihara,75000,52500,724,Khác,81,5.0,214,Nhà Xuất Bản Thế Giới
-205685140,"Thám Tử Lừng Danh Conan - Tập 100 - Bản Đặc Biệt, Bìa Áo - Tặng Kèm Set Postcard Gồm 5 Mẫu, Đựng Trong Phong Bao Conan 100 Và Bìa Áo Độc Quyền",Gosho Aoyama,50000,50000,51,Khác,7,5.0,263,Nhà Xuất Bản Kim Đồng
+205685140,"Thám Tử Lừng Danh Conan - Tập 100 - Bản Đặc Biệt, Bìa Áo - Tặng Kèm Set Postcard Gồm 5 Mẫu, Đựng Trong Phong Bao Conan 100 Và Bìa Áo Độc Quyền",Gosho Aoyama,50000,50000,51,Khác,7,5.0,264,Nhà Xuất Bản Kim Đồng
 186434701,"Khi Bạn Đang Say Giấc, Ai Đó Đã Đạt Được Ước Mơ-Tặng kèm 01 bookmark",Kim Yoojin,108000,77700,593,Sách tư duy - Kỹ năng sống,111,4.8,216,Nhà Xuất Bản Dân Trí
 29290844,Kho Tàng Truyện Thần Thoại Cổ Đại Trung Quốc (Không CD),Thế Giới Hoa Ngữ,22000,22000,12,Sách Học Tiếng Hoa,6,5.0,208,NXB Trẻ
 207162617,“Đức Phật” nơi công sở (Truyện tranh),Tezuka Osamu,75000,60000,47,Khác,2,5.0,300,Nhà Xuất Bản Hà Nội
@@ -680,7 +679,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 198571360,Tokyo Revengers - Tập 5,Ken Wakui,115000,97700,1509,Khác,269,4.8,386,Nhà Xuất Bản Hà Nội
 555504,Đắc Nhân Tâm (Bìa Cứng) - Tái Bản,Dale Carnegie,108000,97200,3,Sách tư duy - Kỹ năng sống,1,5.0,318,Nhà Xuất Bản Tổng hợp TP.HCM
 71094783,Linh Hồn Của Tiền - The Soul Of Money,Lynne Twist,249000,249000,2060,Bài học kinh doanh,376,4.8,384,Nhà Xuất Bản Thế Giới
-111945017,Combo Muôn kiếp nhân sinh 1 (53160) (khổ nhỏ) + Muôn kiếp nhân sinh 2 (54570) (khổ nhỏ),Nguyên Phong,246000,221400,1121,Khác,0,0.0,263,Nhiều Nhà Xuất Bản
+111945017,Combo Muôn kiếp nhân sinh 1 (53160) (khổ nhỏ) + Muôn kiếp nhân sinh 2 (54570) (khổ nhỏ),Nguyên Phong,246000,221400,1131,Khác,0,0.0,264,Nhiều Nhà Xuất Bản
 4080373,90% Trẻ Thông Minh Nhờ Cách Trò Chuyện Đúng Đắn Của Cha Mẹ,Urako Kanamori,39000,33100,24852,Sách Làm Cha Mẹ,864,4.7,176,Không rõ
 115873770,Sách: Thay Đổi Một Suy Nghĩ Thay Đổi cả Cuộc Đời,Không rõ,160000,128000,746,Sách tư duy - Kỹ năng sống,111,4.8,400,Nhà Xuất Bản Thanh Niên
 100347899,Chúa Tể Những Chiếc Nhẫn - Nhà Vua Trở Về (Tái Bản),J. R. R. Tolkien,168000,135000,353,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,103,4.7,516,Nhà Xuất Bản Văn Học
@@ -701,7 +700,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 176906754,Inspired - Kiến Tạo Sản Phẩm Công Nghệ Chiếm Trọn Trái Tim Người Dùng,Marty Cagan,295000,206500,448,Sách Marketing - Bán hàng ,46,4.8,416,Nhà Xuất Bản Dân Trí
 206308054,Mob Psycho 100: REIGEN ~ Ngoại Cảm Sư Linh Cấp Max 131 ~ [Tặng Kèm Bookmark PVC],One,30000,30000,33,Khác,1,5.0,192,Nhà Xuất Bản Kim Đồng
 12107394,Barron's Essential Words For The Toeic (Tái Bản),Không rõ,238000,157000,4354,Sách Học Tiếng Anh,806,4.7,456,Không rõ
-204805806,Tanaka Lúc Nào Cũng Vật Vờ Tập 5 [Tặng Kèm Photo Strip],Nozomi Uda,38000,38000,80,Khác,3,5.0,263,Nhà Xuất Bản Kim Đồng
+204805806,Tanaka Lúc Nào Cũng Vật Vờ Tập 5 [Tặng Kèm Photo Strip],Nozomi Uda,38000,38000,80,Khác,3,5.0,264,Nhà Xuất Bản Kim Đồng
 159644659,Quý Cô Thanh Lịch - Từ Online Đến Offline: Hành Trình Xây Dựng Phiên Bản Rực Rỡ Nhất,Maggie Maggie,119000,83001,729,Sách tư duy - Kỹ năng sống,90,4.8,264,Nhà Xuất Bản Thế Giới
 101801426,Sách IRED Books - Đúng việc (Một góc nhìn về câu chuyện khai minh) (Tái Bản) - Giản Tư Trung,Giản Tư Trung,95000,73000,729,Sách quản trị nhân lực,77,5.0,328,Nhà Xuất Bản Tổng hợp TP.HCM
 186880675,Thế Chiến Thứ Hai,Antony Beevor,699000,440370,151,Sách Luyện Thi Đại Học - Cao Đẳng,34,5.0,1200,Nhà Xuất Bản Hà Nội
@@ -744,7 +743,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 984938,Gã Nghiện Giày - Tự Truyện Của Nhà Sáng Lập NIKE,Phil Knight,160000,115000,8535,Sách doanh nhân,626,4.8,357,Không rõ
 187933551,Reiki - Nghệ Thuật Chữa Lành Bằng Năng Lượng,Lisa Campion,189000,133000,373,Sách tư duy - Kỹ năng sống,48,5.0,336,Nhà Xuất Bản Thanh Niên
 80141519,Hackers IELTS Basic- Writing,Hackers,199000,163180,99,Sách Học Tiếng Anh,32,5.0,340,Nhà Xuất Bản Thế Giới
-202851049,Tanaka Lúc Nào Cũng Vật Vờ - Tập 4,Không rõ,38000,38000,116,Khác,9,5.0,263,Nhà Xuất Bản Kim Đồng
+202851049,Tanaka Lúc Nào Cũng Vật Vờ - Tập 4,Không rõ,38000,38000,116,Khác,9,5.0,264,Nhà Xuất Bản Kim Đồng
 46626771,Nuôi Con Không Phải Là Cuộc Chiến (Tái Bản 2020),Bubu Huong,99000,69300,4708,Sách Làm Cha Mẹ,514,5.0,312,Nhà Xuất Bản Lao Động
 203864192,The Design Thinking Life Playbook - Tư Duy Thiết Kế Ứng Dụng Trong Cuộc Sống,Nhiều tác giả,299000,218270,21,Sách tư duy - Kỹ năng sống,3,5.0,256,Nhà Xuất Bản Công Thương
 193605374,Làm Sao Để Che Giấu Một Đế Quốc - How To Hide An Empire,Daniel Immerwahr,299000,179400,168,Lịch Sử Thế Giới,17,4.8,584,Nhà Xuất Bản Dân Trí
@@ -772,7 +771,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 44976191,Economix - Các Nền Kinh Tế Vận Hành (Và Không Vận Hành) Thế Nào Và Tại Sao?,Michael Goodwin,152000,114000,6645,Sách kinh tế học,730,4.8,310,Không rõ
 128649312,21 Nguyên Tắc Tự Do Tài Chính (Tái Bản),Brian Tracy,55000,38500,1157,"Sách tài chính, tiền tệ",116,5.0,106,Nhà Xuất Bản Công Thương
 174605338,Bách Khoa Thư Về Nghệ Thuật,DK,499000,314371,296,Mỹ Thuật - Kiến Trúc,42,4.5,208,Nhà Xuất Bản Dân Trí
-197781975,Dr.Slump Ultimate Edition Tập 12,Akira Toriyama,60000,60000,410,Khác,43,5.0,263,Nhà Xuất Bản Kim Đồng
+197781975,Dr.Slump Ultimate Edition Tập 12,Akira Toriyama,60000,60000,410,Khác,43,5.0,264,Nhà Xuất Bản Kim Đồng
 467896,Trà Hoa Nữ (Tái Bản 2015),Alexandre Dumas,50000,36100,1655,Tác phẩm kinh điển,206,4.8,488,Không rõ
 200851517,Hạnh phúc không mọc trên cây,Trần Hữu Đức,160000,118400,94,Sách nghệ thuật sống đẹp,5,5.0,342,NXB Trẻ
 50723822,Con Đường Đi Đến Thành Công Bằng Sự Tử Tế (Tái Bản 2020),Inamori Kazuo,70000,50800,3866,Sách tư duy - Kỹ năng sống,253,4.8,204,NXB Trẻ
@@ -801,7 +800,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 162100202,Đại Việt Sử Ký Toàn Thư Trọn Bộ (Tái Bản),Đào Duy Anh,245000,166000,451,Lịch Sử Việt Nam,102,5.0,1284,Nhà Xuất Bản Hồng Đức
 164336678,Việt Nam Danh Tác - Chân Trời Cũ,Hồ Dzếnh,70000,52000,229,Truyện ngắn - Tản văn - Tạp Văn,45,5.0,192,Nhà Xuất Bản Hội Nhà Văn
 427529,Những Nụ Hôn Điện Ảnh,Eric Fottorino,58000,52000,5,Tiểu Thuyết,1,4.0,207,Không rõ
-201037627,Grimgar - Ảo Ảnh Và Tro Tàn Level.14 - [Parano_Mania],Ao Jyumonji,100000,72200,170,Khác,19,5.0,263,Nhà Xuất Bản Kim Đồng
+201037627,Grimgar - Ảo Ảnh Và Tro Tàn Level.14 - [Parano_Mania],Ao Jyumonji,100000,72200,170,Khác,19,5.0,264,Nhà Xuất Bản Kim Đồng
 179546672,Làm Sao Học Hết Được Nhân Sinh,Pomnyun,169000,101400,815,Sách tư duy - Kỹ năng sống,94,5.0,292,Nhà Xuất Bản Dân Trí
 10675287,EAT CLEAN Thực Đơn 14 Ngày Thanh Lọc Cơ Thể Và Giảm Cân,Không rõ,149000,107000,7099,Sách Nấu ăn,462,4.7,160,Không rõ
 160081248,Gấu Pooh Xinh Xắn,A.A.Milne,90000,68000,480,Truyện kể cho bé,78,4.8,184,Nhà Xuất Bản Hội Nhà Văn
@@ -814,7 +813,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 95311757,Lưu Thông Máu Tốt Hóa Giải Bách Bệnh,Akiyoshi Horie,99000,69300,970,Khác,110,4.8,252,Nhà Xuất Bản Công Thương
 172067117,Chữa Lành Năm Giác Quan,Park Ji Sook,97000,82000,3601,Sách tư duy - Kỹ năng sống,0,0.0,184,Nhà Xuất Bản Thanh Niên
 163703151,Chuyện Kể Rằng Có Nàng Và Tôi,Không rõ,72000,50001,2344,Thơ,579,4.8,152,Nhà Xuất Bản Phụ Nữ Việt Nam
-148023001,DragonBall - 7 viên ngọc rồng ( 1-42 ),Không rõ,19500,19500,895,Khác,64,4.7,263,Nhà Xuất Bản Kim Đồng
+148023001,DragonBall - 7 viên ngọc rồng ( 1-42 ),Không rõ,19500,19500,895,Khác,64,4.7,264,Nhà Xuất Bản Kim Đồng
 77230663,Combo 2 Cuốn: Tâm Lý Học Tội Phạm,Stanton E. Samenow,288000,172800,7445,Lĩnh vực khác,1893,4.8,664,Nhà Xuất Bản Đại Học Kinh Tế Quốc Dân
 123741240,Bộ Ehon song ngữ Anh Việt 10 cuốn - Cho bé 0-6 tuổi - Bộ sách nuôi dưỡng tâm hồn bé,Không rõ,180000,106000,343,Truyện tranh Ehon,31,5.0,240,Nhà Xuất Bản Hà Nội
 204649516,Sách - 1111 - NHẬT KÝ SÁU VẠN DẶM TRÊN YÊN XE CÀ TÀNG - Trần Đặng Đăng Khoa - NXB Trẻ - bìa mềm,Không rõ,325000,292500,2,Du ký,0,0.0,368,NXB Trẻ
@@ -869,7 +868,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 40774181,Combo Sách Tiếng hàn tổng hợp dành cho người Việt Nam - Sơ cấp 1 (Phiên bản 1 màu),Không rõ,220000,147400,5295,Sách Học Tiếng Hàn,1305,5.0,436,Không rõ
 55302745,Dòng Tiền Gắn Liền Lợi Nhuận,Mike Michalowicz,149000,92900,2294,Bài học kinh doanh,243,4.8,284,Nhà Xuất Bản Công Thương
 9687412,Báo Cáo Tài Chính - Hướng Dẫn Từng Bước Hiểu Và Lập Báo Cáo Tài Chính,Thomas R. Ittelson,158000,113700,8122,Sách kỹ năng làm việc,749,4.7,332,Nhà Xuất Bản Hồng Đức
-197634254,"Gửi em, người bất tử - Tập 12",Yoshitoki Oima,30000,26000,320,Khác,32,5.0,263,NXB Trẻ
+197634254,"Gửi em, người bất tử - Tập 12",Yoshitoki Oima,30000,26000,320,Khác,32,5.0,264,NXB Trẻ
 55119955,Cách Sống (Tái Bản 2020),Inamori Kazuo,85000,59500,2463,Sách nghệ thuật sống đẹp,214,4.8,226,Nhà Xuất Bản Lao Động
 32037711,Chinh Phục Mục Tiêu (Tái Bản 2019),Brian Tracy,118000,64600,3017,Sách kỹ năng làm việc,243,4.7,328,Không rõ
 137241842,Trồng Một Nụ Cười - Cùng Trẻ Thực Hành Chánh Niệm,Thích Nhất Hạnh,199000,139300,1515,Khác,168,5.0,312,Nhà Xuất Bản Hà Nội
@@ -881,7 +880,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 205299813,"Tashiro, Cậu Đúng Thật Là! - Tập 2",Yamada,109000,92200,61,Khác,8,5.0,180,Nhà Xuất Bản Dân Trí
 196932349,Harry Potter Và Thế Giới Phép Thuật Nhiệm Màu,William Irwin,139000,100000,93,Khác,12,5.0,400,Nhà Xuất Bản Thế Giới
 54433518,Combo Sách Học Tiếng Anh Little Stories 1 (5 Cuốn),Stacey Riches,325000,217700,1446,Sách Học Tiếng Anh,418,5.0,960,Nhà Xuất Bản Đà Nẵng
-195190278,Combo Spy x Family (7 tập),Không rõ,175000,175000,293,Khác,71,5.0,263,Nhà Xuất Bản Kim Đồng
+195190278,Combo Spy x Family (7 tập),Không rõ,175000,175000,293,Khác,71,5.0,264,Nhà Xuất Bản Kim Đồng
 80657321,Cơ Thể Tự Chữa Lành: Phục Hồi Tuyến Giáp,Anthony William,180000,115000,3111,Khác,505,5.0,408,Nhà Xuất Bản Thanh Niên
 101325467,Bộ Truyện Tranh Gieo Hạt Cùng Vĩ Nhân (Tập 1-10),Không rõ,150000,150000,1411,Đạo đức - Kỹ năng sống,204,5.0,48,Nhà Xuất Bản Thông Tin Và Truyền Thông
 111285050,Ai Lấy Miếng Pho Mát Của Tôi ? (Tái Bản),Spencer Johnson,68000,38700,709,Sách nghệ thuật sống đẹp,41,5.0,128,Nhà Xuất Bản Tổng hợp TP.HCM
@@ -897,11 +896,11 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 2651041,Bàn Về Văn Minh,Fukuzawa Yukichi,139000,83400,1646,Sách Phong Tục - Tập Quán,108,5.0,448,Không rõ
 2099189,Khéo Ăn Nói Sẽ Có Được Thiên Hạ (Bìa Cứng),Trác Nhã,125000,100000,336,Sách kỹ năng làm việc,40,5.0,403,Nhà Xuất Bản Văn Học
 57767468, Cứ Làm Đi!,Không rõ,109000,68000,515,Sách tư duy - Kỹ năng sống,76,4.7,318,Nhà Xuất Bản Thế Giới
-197990867,Doraemon Movie Story: Nobita Và Viện Bảo Tàng Bảo Bối,Fujiko F Fujio,30000,29000,172,Khác,16,5.0,263,Nhà Xuất Bản Kim Đồng
+197990867,Doraemon Movie Story: Nobita Và Viện Bảo Tàng Bảo Bối,Fujiko F Fujio,30000,29000,172,Khác,16,5.0,264,Nhà Xuất Bản Kim Đồng
 58864689,Giải Mã Siêu Trí Nhớ ,Mai Tường Vân,139000,139000,8362,Sách tư duy - Kỹ năng sống,2082,4.8,318,Nhà Xuất Bản Đà Nẵng
 203937562,Bí Quyết Đọc Sách 2.000 Từ/Phút ,Aloha Tuấn,286000,286000,42,Sách kỹ năng làm việc,4,5.0,240,Nhà Xuất Bản Tổng hợp TP.HCM
 196831939,"Lịch Sử Văn Minh Thế Giới - Phần IV “Thời Đại Đức Tin”, Tập 1: Byzantium Thời Tuyệt Đỉnh Lịch Sử Văn Minh Thế Giới",Will Durant,195000,138450,152,Lịch Sử Thế Giới,17,5.0,372,Nhà Xuất Bản Khoa Học Xã Hội
-198415080,Shaman King - Tập 18,Hiroyuki Takei,35000,30400,267,Khác,28,5.0,263,NXB Trẻ
+198415080,Shaman King - Tập 18,Hiroyuki Takei,35000,30400,267,Khác,28,5.0,264,NXB Trẻ
 7369223,Cho Tôi Xin Một Vé Đi Tuổi Thơ (Bìa Mềm) (Tái Bản),Nguyễn Nhật Ánh,80000,57700,19696,Truyện dài,1597,4.8,357,Không rõ
 77105810,Nỗi Đau Của Chàng Werther (Bìa Cứng),Johann Wolfgang von Goethe,85000,65300,1311,Tiểu Thuyết,326,4.8,220,Nhà Xuất Bản Văn Học
 73434639,Những Tấm Lòng Cao Cả (Bìa Cứng)(Tái Bản 2020),Edmondo De Amicis,110000,76800,1134,Tác phẩm kinh điển,277,4.8,367,Nhà Xuất Bản Văn Học
@@ -921,7 +920,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 207909812,Tạp chí Forbes Việt Nam - Số 112 (Tháng 12.2022) - 100 Công ty nộp thuế lớn nhất,nhieu tac gia,95000,95000,14,Khác,0,0.0,140,Forbes Việt Nam
 67060008,"Phát Triển Trí Tuệ Cảm Xúc - Gấu Ơi, Con Lo Lắng Đến Chừng Nào?",Jayneen Sanders,50000,30000,911,Kiến thức - Bách khoa,91,5.0,40,Nhà Xuất Bản Dân Trí
 199241859,Blue Flag - Tập 4,Kaito,45000,45000,251,Khác,31,5.0,208,Nhà Xuất Bản Kim Đồng
-193896567,Boxset Manga Đứa Con Của Thời Tiết (3 Cuốn) [Tặng Kèm Postcard],Makoto Shinkai,120000,101000,544,Khác,154,5.0,263,Nhà Xuất Bản Kim Đồng
+193896567,Boxset Manga Đứa Con Của Thời Tiết (3 Cuốn) [Tặng Kèm Postcard],Makoto Shinkai,120000,101000,544,Khác,154,5.0,264,Nhà Xuất Bản Kim Đồng
 21031780,Pháo Đài Số ( Tái Bản ),Dan Brown,199000,134000,1759,Truyện trinh thám,361,4.7,585,Không rõ
 56226544,Tam Quốc Diễn Nghĩa - 2 Tập (Bìa Cứng - Tái Bản 2020),La Quán Trung,390000,265000,1039,Tác phẩm kinh điển,306,4.8,1892,Nhà Xuất Bản Văn Học
 144203242,9 Lần Khởi Nghiệp - Chuyện Kể Về Những Thất Bại Và Thành Công Của Một Triệu Phú,Nguyễn Phương Nam,199000,149000,2130,Sách doanh nhân,284,5.0,260,Nhà Xuất Bản Thế Giới
@@ -949,7 +948,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 120219392,Người Thầy (Hồi Ức Của Một Nhà Giáo Mỹ),Frank McCourt,118000,70800,542,Tiểu sử - Hồi ký,78,4.8,335,Nhà Xuất Bản Hội Nhà Văn
 156224977,Sống Đơn Giản Cho Mình Thanh Thản (Tái Bản),Shunmyo Masuno,85000,59500,302,Sách hướng nghiệp - Kỹ năng mềm,36,5.0,197,Nhà Xuất Bản Lao Động
 199039798,Mỹ Vị Hầm Ngục - 4,Kui Ryoko,58000,49200,231,Khác,33,5.0,192,Nhà Xuất Bản Hồng Đức
-198414404,Cô Bạn Tôi Thầm Thích Lại Quên Mang Kính Rồi -  Tập 5,Không rõ,38000,38000,282,Khác,44,5.0,263,Nhà Xuất Bản Kim Đồng
+198414404,Cô Bạn Tôi Thầm Thích Lại Quên Mang Kính Rồi -  Tập 5,Không rõ,38000,38000,282,Khác,44,5.0,264,Nhà Xuất Bản Kim Đồng
 197344442,Những Đứa Con Rải Rác Trên Đường (Bản Đặc Biệt),Hồ Anh Thái,330000,230001,28,Truyện ngắn - Tản văn - Tạp Văn,5,5.0,2076,NXB Trẻ
 192908778,Tokyo Revengers - Tập 3,Ken Wakui,115000,84001,1834,Khác,397,5.0,386,Nhà Xuất Bản Hà Nội
 177569697,Perfect Ielts Vocabulary (Tái Bản),William Jang,259000,165000,164,Sách Học Tiếng Anh,20,5.0,600,Nhà Xuất Bản Dân Trí
@@ -965,18 +964,18 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 200877613,Nhân Duyên Mèo Định,Melinda Metz,198000,126000,91,Truyện ngắn - Tản văn - Tạp Văn,10,5.0,456,Nhà Xuất Bản Dân Trí
 179952621,Hành Trình Tarot (Tái Bản 2022),TADA Project,149000,104001,736,Sách Chiêm Tinh - Horoscope,134,5.0,240,Nhà Xuất Bản Thế Giới
 63473605,"Ho’Oponopono: Sống Như Người Hawaii – Chấp Nhận, Biết Ơn Và Tha Thứ",Carole Berger,109000,76300,4663,Sách nghệ thuật sống đẹp,742,5.0,160,Nhà Xuất Bản Công Thương
-197344455,Ikigami - The Ultimate Limit - Tuyển Tập Những Câu Chuyện Lay Động Lòng Người - Tập 9,Motoro MASE,45000,39100,440,Khác,35,5.0,263,NXB Trẻ
-196849396,"Gửi Em, Người Bất Tử - Tập 3 (Tái Bản 2022)",Yoshitoki Oima,30000,23900,239,Khác,34,5.0,263,NXB Trẻ
+197344455,Ikigami - The Ultimate Limit - Tuyển Tập Những Câu Chuyện Lay Động Lòng Người - Tập 9,Motoro MASE,45000,39100,440,Khác,35,5.0,264,NXB Trẻ
+196849396,"Gửi Em, Người Bất Tử - Tập 3 (Tái Bản 2022)",Yoshitoki Oima,30000,23900,239,Khác,34,5.0,264,NXB Trẻ
 5413743,Mind Map Vocabulary - Học Từ Vựng Tiếng Anh Bằng Sơ Đồ Tư Duy (Kèm file MP3),Language Publishing Editorial,320000,221900,3309,Sách Học Tiếng Anh,363,4.7,288,Nhà Xuất Bản Tổng hợp TP.HCM
 176909246,Bí Quyết Bấm Huyệt Chữa Bệnh,Katsusuke Serizawa,178000,117400,284,Khác,37,4.8,232,Nhà Xuất Bản Tổng hợp TP.HCM
 182458780,Thiền Tập Cho Người Bận Rộn (Tbl12),Thích Nhất Hạnh,89000,60000,204,Khác,17,5.0,125,Nhà Xuất Bản Hồng Đức
 167210781,Cậu Bé Mặc Váy,David Walliams,98000,77100,351,Truyện ngắn - Tản văn - Tạp Văn,54,5.0,196,Nhà Xuất Bản Hà Nội
 171651791,Thay Đổi Câu Hỏi Thay Đổi Cuộc Đời (Tái Bản),Tiến Sỹ Marilee Adams,85000,62900,82,Sách tư duy - Kỹ năng sống,6,4.7,318,Nhà Xuất Bản Lao Động
-203757838,666 Satan - Tập 2,Seishi Kishimoto,30000,29100,87,Khác,5,5.0,263,Nhà Xuất Bản Kim Đồng
+203757838,666 Satan - Tập 2,Seishi Kishimoto,30000,29100,87,Khác,5,5.0,264,Nhà Xuất Bản Kim Đồng
 186290792,Bồ Câu Không Đưa Thư (Tái Bản 2022),Nguyễn Nhật Ánh,38000,27200,181,Truyện ngắn - Tản văn - Tạp Văn,21,4.8,182,NXB Trẻ
 174444186,Luận Về Yêu,Alain de Botton,96000,75100,166,Truyện ngắn - Tản văn - Tạp Văn,18,5.0,256,Nhà Xuất Bản Thế Giới
 19948893,Chạm Tay Hóa Vàng (Tái Bản),Donald J.Trump,105000,76200,2953,Sách doanh nhân,302,5.0,181,Không rõ
-171057415,Cẩm nang hướng dẫn tự học tiếng Thái – trình độ sơ cấp – trung cấp,Tuấn Kiệt,120000,120000,462,Khác,91,5.0,292,Nhà Xuất Bản Thanh Niên
+171057415,Cẩm nang hướng dẫn tự học tiếng Thái – trình độ sơ cấp – trung cấp,Tuấn Kiệt,120000,120000,462,Ngoại Ngữ Khác,91,5.0,292,Nhà Xuất Bản Thanh Niên
 4086213,Kẻ Giấu Mặt,Nicholas Sparks,165000,82500,728,Tiểu Thuyết,43,4.8,628,Không rõ
 72742662,Sa Môn Không Hải Thết Yến Bầy Quỷ Đại Đường Tập 4,Yumemakura Baku,140000,84000,840,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,218,4.8,388,Nhà Xuất Bản Hà Nội
 201296288,Ayurveda Phương Pháp Y Thuật Cổ Truyền Ấn Độ Hơn 5000 Tuổi,Vasant Lad,229000,160300,41,Khác,1,5.0,544,Nhà Xuất Bản Thế Giới
@@ -999,11 +998,11 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 195980676,Phượng Hoàng Tái Sinh - 12 Phẩm Chất Quan Trọng Để Bứt Phá Sự Nghiệp Và Cuộc Sống,Không rõ,152000,98800,2,Sách tư duy - Kỹ năng sống,0,0.0,264,Nhà Xuất Bản Hồng Đức
 188930498,Người Bà Tài Giỏi Vùng Saga – Tập 6,Yoshichi Shimada,52000,45000,365,Khác,42,4.8,200,Nhà Xuất Bản Phụ Nữ
 74277389,Combo 4 Cuốn: Bộ Tuyển Tập Truyện Hay Dành Cho Thiếu Nhi (Tái Bản),William J. Bennett,192000,126700,535,Văn học thiếu nhi,103,4.8,268,Nhà Xuất Bản Tổng hợp TP.HCM
-201048333,Yu-Gi-Oh! GX - Tập 2: Cuộc Gặp Gỡ Định Mệnh!!,Kazuki Takahashi,30000,29900,181,Khác,24,5.0,263,Nhà Xuất Bản Kim Đồng
+201048333,Yu-Gi-Oh! GX - Tập 2: Cuộc Gặp Gỡ Định Mệnh!!,Kazuki Takahashi,30000,29900,181,Khác,24,5.0,264,Nhà Xuất Bản Kim Đồng
 13624086,Mô Hình Xoắn Động Gien Tinh Thần Hay Sự Thật Về Tâm Lý Con Người,Vũ Phi Yên,99000,72400,1730,Sách tư duy - Kỹ năng sống,114,4.8,338,Không rõ
-201431424,Birdmen - Tập 10,Yellow Tanabe,30000,30000,155,Khác,13,5.0,263,Nhà Xuất Bản Kim Đồng
+201431424,Birdmen - Tập 10,Yellow Tanabe,30000,30000,155,Khác,13,5.0,264,Nhà Xuất Bản Kim Đồng
 199240640,Vua Sáng Chế - Tập 19,Tatsuki Nohda,20000,19000,230,Khác,20,5.0,192,Nhà Xuất Bản Kim Đồng
-193590152,Méthode Rose - Phương pháp hồng 1 - Năm thứ nhất với đàn piano - Giáo trình dạy piano nổi tiếng của  Pháp,Ernest Van De Velde,150000,91001,171,Khác,22,5.0,124,Nhà Xuất Bản Dân Trí
+193590152,Méthode Rose - Phương pháp hồng 1 - Năm thứ nhất với đàn piano - Giáo trình dạy piano nổi tiếng của  Pháp,Ernest Van De Velde,150000,91001,171,Âm Nhạc - Điện Ảnh,22,5.0,124,Nhà Xuất Bản Dân Trí
 49066799,Hồi Ức Là Cuộn Băng Tua Ngược,Hyun-wook Park,112000,44800,146,Tiểu Thuyết,13,4.8,300,Nhà Xuất Bản Hà Nội
 193211309,Chuông Gió (Tập 2),Vĩ Ngư,174000,129000,345,Truyện ngôn tình,58,5.0,456,Nhà Xuất Bản Thanh Niên
 92993878,Truyện đọc cho bé trước giờ đi ngủ, Mai Hương,98000,63700,246,Truyện kể cho bé,22,5.0,112,Nhà Xuất Bản Phụ Nữ Việt Nam
@@ -1019,7 +1018,7 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 170463582,Siêu Nhí Biết Tuốt - 101 Bí Ẩn Kích Thích Tò Mò Của Các Bạn Nhỏ,Không rõ,199998,125000,710,Kiến thức - Bách khoa,90,5.0,120,Nhà Xuất Bản Hà Nội
 51215567,Đồng Tiền Hạnh Phúc,Ken Honda,95000,71100,2918,Sách tư duy - Kỹ năng sống,323,5.0,258,Nhà Xuất Bản Đại Học Kinh Tế Quốc Dân
 196932341,Dưỡng da tối giản,Thư Đỗ,92000,62001,36,Sách Làm Đẹp,1,5.0,136,Nhà Xuất Bản Thế Giới
-194104232,Anh Em Phi Hành Gia - Tập 32,Chuya Koyama,45000,39100,238,Khác,14,5.0,263,NXB Trẻ
+194104232,Anh Em Phi Hành Gia - Tập 32,Chuya Koyama,45000,39100,238,Khác,14,5.0,264,NXB Trẻ
 160081250,Tăng Cường Sức Mạnh Não Bộ,Kato Toshinori,120000,72000,698,Sách tư duy - Kỹ năng sống,72,4.8,234,Nhà Xuất Bản Thế Giới
 77982972,Những Mô Hình COACH Thành Công Nhất Hiện Nay,Jonathan Passmore,200000,134000,1112,Bài học kinh doanh,164,4.8,360,Nhà Xuất Bản Thế Giới
 198587700,Tạp chí Đẹp T09-10/2022 (số 269),Không rõ,65000,65000,15,Khác,0,0.0,158,Nhà Xuất Bản Thông Tấn
@@ -1060,14 +1059,14 @@ product_id,title,authors,original_price,current_price,quantity,category,n_review
 162140222,Tết Ở Làng Địa Ngục,Thảo Trang,169000,114000,774,Truyện dài,181,4.8,544,Nhà Xuất Bản Thanh Niên
 90888310,Lũ Trẻ Hư Nhất Quả Đất 2,David Walliams,185000,111000,1065,Truyện cười,198,5.0,286,Nhà Xuất Bản Hội Nhà Văn
 157054862,Tâm Lý Học Thành Công (Tái Bản),Carol S.Dweck,199000,130000,339,Sách giáo dục,62,4.8,480,Nhà Xuất Bản Lao Động
-198728079,Vivre Card - Thẻ Dữ Liệu Nhân Vật One Piece Booster Pack - Thợ Đóng Tàu Hàng Đầu Thế Giới! Galleyla-Company!!,Không rõ,25000,25000,204,Khác,20,5.0,263,Nhà Xuất Bản Kim Đồng
+198728079,Vivre Card - Thẻ Dữ Liệu Nhân Vật One Piece Booster Pack - Thợ Đóng Tàu Hàng Đầu Thế Giới! Galleyla-Company!!,Không rõ,25000,25000,204,Khác,20,5.0,264,Nhà Xuất Bản Kim Đồng
 1404169,Thư Gửi Từ Miến Điện,Aung San Suu Kyi,92000,73600,4,Tiểu Thuyết,1,5.0,248,Không rõ
 201562338,"Không Sao Mà, Chúng Ta Rồi Sẽ Ổn",Mai Thanh Hạ,98000,79000,229,Thơ,9,5.0,200,Nhà Xuất Bản Văn Học
 200997680,Sách - J. Krishnamurti Đôi Điều Cần Suy Ngẫm - First News,J. Krishnamurti,188000,150400,35,Sách tư duy - Kỹ năng sống,4,5.0,368,Nhà Xuất Bản Dân Trí
-196849395,"Gửi Em, Người Bất Tử - Tập 2 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,251,Khác,40,5.0,263,NXB Trẻ
+196849395,"Gửi Em, Người Bất Tử - Tập 2 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,251,Khác,40,5.0,264,NXB Trẻ
 100384412,Vô Cùng Tàn Nhẫn Vô Cùng Yêu Thương (Tái Bản),Sara Imas,189000,122000,917,Sách Làm Cha Mẹ,124,4.8,516,Nhà Xuất Bản Dân Trí
 49249526,Thiết Kế Cuộc Đời Thịnh Vượng - Design a Prosperous Life,Thái Phạm,299000,299000,15571,Sách tư duy - Kỹ năng sống,2808,5.0,352,Nhà Xuất Bản Thế Giới
-196849400,"Gửi Em, Người Bất Tử - Tập 5 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,222,Khác,26,5.0,263,NXB Trẻ
+196849400,"Gửi Em, Người Bất Tử - Tập 5 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,222,Khác,26,5.0,264,NXB Trẻ
 27962195,Ehon Thông Minh Cho Trẻ Mẫu Giáo - Kẹt Xe Lâu Quá,Ohmura Tomoko,52000,44000,1,Truyện tranh Ehon,0,0.0,38,Nhà Xuất Bản Thế Giới
 545625,Làm Quen Thống Kê Học Qua Biếm Họa,Grady Klein & Yoram Bauman,89000,48950,1198,Sách kinh tế học,9,4.6,225,Không rõ
 9490657,Hệ thống giao dịch Ichimoku Charts - Ichimoku Kinko Clouds  (Phiên bản sách năm 2018),Nicole Elliott,330000,330000,8401,"Sách tài chính, tiền tệ",900,4.6,376,Nhà Xuất Bản Thế Giới
@@ -1102,7 +1101,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 59107035,Hỏi Một Phi Hành Gia,Tim Peake,135000,114750,1931,Kiến Thức Bách Khoa,0,0.0,292,Nhà Xuất Bản Dân Trí
 177747013,Giác Ngộ,Osho,139000,100000,230,Sách tư duy - Kỹ năng sống,23,4.8,280,Nhà Xuất Bản Lao Động
 109515306,Combo 2 Cuốn: Truyện Cổ Grim 1 + 2,Jacob,410000,237800,320,Truyện cổ tích,89,4.8,892,Nhà Xuất Bản Hà Nội
-198016656,Blue Flag - Tập 3,Kaito,45000,42100,311,Khác,40,5.0,263,Nhà Xuất Bản Kim Đồng
+198016656,Blue Flag - Tập 3,Kaito,45000,42100,311,Khác,40,5.0,264,Nhà Xuất Bản Kim Đồng
 195885684,Blue Flag - Tập 1,Kaito,45000,40000,300,Khác,45,5.0,224,Nhà Xuất Bản Kim Đồng
 625185,Sến,Lão Phạm,68000,27200,305,Truyện ngắn - Tản văn - Tạp Văn,11,5.0,224,Không rõ
 138107485,Mặt Dày Tâm Đen (Tái Bản),Chin-Ning Chu,169000,113200,1580,Sách tư duy - Kỹ năng sống,212,5.0,172,Nhà Xuất Bản Hồng Đức
@@ -1132,7 +1131,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 36399658,"Ung Thư Không Phải Là Bệnh, Mà Là Cơ Chế Chữa Lành",Andreas Moritz,169000,118300,1587,Khác,167,5.0,463,Không rõ
 49066793,Truyện Trẻ Con,A. S. Byatt,286000,243100,23,Văn học thiếu nhi,7,5.0,700,Nhà Xuất Bản Hội Nhà Văn
 8121633,Văn Minh Vật Chất Của Người Việt,Phan Cẩm Thượng,330000,221100,1230,Sách tư duy - Kỹ năng sống,125,5.0,656,Không rõ
-196851308,Dragon Ball Full Color - Phần Năm: Truy Lùng Cell Bọ Hung - Tập 4,Akira Toriyama,77000,77000,463,Khác,48,5.0,263,Nhà Xuất Bản Kim Đồng
+196851308,Dragon Ball Full Color - Phần Năm: Truy Lùng Cell Bọ Hung - Tập 4,Akira Toriyama,77000,77000,463,Khác,48,5.0,264,Nhà Xuất Bản Kim Đồng
 104935828,Truyện Ngắn Nguyễn Huy Thiệp (Bìa Cứng) - Ấn Bản Kỷ Niệm 70 Năm Ngày Sinh Tác Giả - Với Minh Họa Của Các Họa Sĩ (Tái Bản - Bìa Xanh),Nguyễn Huy Thiệp,450000,247500,381,Tác phẩm kinh điển,102,4.8,569,Nhà Xuất Bản Văn Học
 201580265,Ma Pháp Thiếu Nữ (Vol 2+3),Endou Asari,325000,253000,93,Light novel,20,5.0,388,Nhà Xuất Bản Phụ Nữ Việt Nam
 193897099,Cuộc săn cừu hoang,Haruki Murakami,136000,86001,68,Truyện trinh thám,7,5.0,448,Nhà Xuất Bản Văn Học
@@ -1148,7 +1147,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 80960198,"Thiên Tài Bên Trái, Kẻ Điên Bên Phải (Tái Bản 2021)",Cao Minh,179000,110000,788,Sách tư duy - Kỹ năng sống,167,5.0,424,Nhà Xuất Bản Thế Giới
 143858325,Hannibal,Thomas Harris,145000,117000,185,Truyện trinh thám,52,4.8,432,Nhà Xuất Bản Hội Nhà Văn
 77122341,Số Đỏ,Vũ Trọng Phụng,55000,41250,213,Tiểu Thuyết,58,5.0,215,Nhà Xuất Bản Văn Học
-174215331,Ajin - Boxset Số 2 (Tập 7 - 12) - Tặng Kèm Bookmark 3D,Sakurai Gamon,300000,252001,1124,Khác,325,4.7,263,NXB Trẻ
+174215331,Ajin - Boxset Số 2 (Tập 7 - 12) - Tặng Kèm Bookmark 3D,Sakurai Gamon,300000,252001,1124,Khác,325,4.7,264,NXB Trẻ
 5067155,Nhật Ký Anne Frank (Tái Bản),Không rõ,98000,58800,1290,Tiểu Thuyết,156,4.8,374,Không rõ
 195885678,Spy X Family Tiểu Thuyết - Bức Chân Dung Gia Đình,Tatsuya Endo,45000,36001,419,Khác,89,5.0,212,Nhà Xuất Bản Kim Đồng
 139979524,Thiền - Osho (Tái Bản),Osho,149000,104300,640,Khác,89,5.0,292,Nhà Xuất Bản Hà Nội
@@ -1158,7 +1157,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 511099,Yêu Nhau Như Chó Với Mèo (Tập 3),Park Hee Jung,62000,12400,280,Truyện tranh thiếu nhi,2,5.0,188,Không rõ
 149257065,Keanu Reeves - Ma Trận Cuộc Đời (Bí Ẩn Đằng Sau Người Đàn Ông Tử Tế Nhất Hành Tinh),Marc Shapiro,168000,105800,4519,Sách nghệ thuật sống đẹp,620,5.0,320,Nhà Xuất Bản Dân Trí
 1704327,Năng Đoạn Kim Cương (Tái Bản 2018),Geshe Michael Roach,110000,85800,123,Sách kỹ năng làm việc,7,5.0,348,Nhà Xuất Bản Tri Thức
-196849394,"Gửi Em, Người Bất Tử - Tập 6 (Tái Bản 2022)",Yoshitoki Oima,30000,23900,217,Khác,28,5.0,263,NXB Trẻ
+196849394,"Gửi Em, Người Bất Tử - Tập 6 (Tái Bản 2022)",Yoshitoki Oima,30000,23900,217,Khác,28,5.0,264,NXB Trẻ
 48323805,Sách Người trong muôn nghề,Nhóm tác giả,169000,169000,5160,Sách tư duy - Kỹ năng sống,767,4.8,216,Nhà Xuất Bản Hồng Đức - Hội Luật Gia Việt Nam
 200852592,Harry Potter Và Phòng Chứa Bí Mật,J.K.Rowling,170000,113900,43,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,4,5.0,407,NXB Trẻ
 3577373,Ta Ba Lô Trên Đất Á,Không rõ,108000,64800,3417,Du ký,203,4.7,412,Không rõ
@@ -1172,7 +1171,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 186239095,Kinh A Di Đà (Tái bản 2022),Thích Nhật Từ,19000,19000,110,Khác,13,5.0,43,Nhà Xuất Bản Tôn Giáo
 93862443,Dạy con học nói sớm,Không rõ,85100,70633,172,Sách Làm Cha Mẹ,24,4.8,200,Nhà Xuất Bản Phụ Nữ Việt Nam
 57037220,Nhóc Nicolas: Những Chuyện Chưa Kể - Tập 1 (Tái Bản 2020),Goscinny & Sempé,115000,69000,668,Văn học thiếu nhi,119,5.0,749,Nhà Xuất Bản Hội Nhà Văn
-58342212,Sách ehon - Set 3 cuốn Moi Moi và những người bạn - Dành cho trẻ từ 0-2 tuổi,..,117000,78300,2939,Truyện tranh Ehon,568,5.0,30,Nhà Xuất Bản Lao Động Xã Hội
+58342212,Sách ehon - Set 3 cuốn Moi Moi và những người bạn - Dành cho trẻ từ 0-2 tuổi,Không rõ,117000,78300,2939,Truyện tranh Ehon,568,5.0,30,Nhà Xuất Bản Lao Động Xã Hội
 421620,Em Phải Đến Harvard Học Kinh Tế (Tái Bản),Lưu Vệ Hoa - Trương Hân Vũ,98000,75000,8269,Sách khởi nghiệp,349,4.7,459,Không rõ
 195291930,Bốn Thỏa Ước,Janet Mills,130000,87100,218,Sách nghệ thuật sống đẹp,13,5.0,190,Nhà Xuất Bản Dân Trí
 28199667,Từ Điển Khoa Học 1000 Loài Động Vật,Nikki Dyson,169000,144000,1563,Kiến thức - Bách khoa,0,0.0,33,Nhà Xuất Bản Hà Nội
@@ -1180,7 +1179,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 130996084,Sách Lật Tương Tác Song Ngữ 0 - 3 Tuổi - Mẹ Đâu Rồi? (Tái Bản),Giuliano Ferri,80000,48000,416,Sách Kiến Thức - Kỹ Năng Cho Trẻ,42,5.0,20,Nhà Xuất Bản Hà Nội
 176824198,How To Draw – Vẽ Nguệch Ngoạc Cả Thế Giới,Chika Miyata,139000,103000,258,Mỹ Thuật - Kiến Trúc,34,5.0,248,Nhà Xuất Bản Thế Giới
 74616448,Lập Kế Hoạch Kinh Doanh Cho Người Mới Bắt Đầu,Alex Genadinik,119000,74200,644,Sách Marketing - Bán hàng ,97,4.8,200,Nhà Xuất Bản Thế Giới
-196849389,"Gửi Em, Người Bất Tử - Tập 10 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,230,Khác,32,5.0,263,NXB Trẻ
+196849389,"Gửi Em, Người Bất Tử - Tập 10 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,230,Khác,32,5.0,264,NXB Trẻ
 49716241,Tử Vi Hàm Số (Bìa Cứng),Nguyễn Phát Lộc,180000,117100,472,Sách Phong Thủy - Kinh Dịch,90,4.8,496,Nhà Xuất Bản Hồng Đức
 107707575,Kẻ Ái Kỉ Cô Độc - Đi Vào Thế Giới Ẩn Giấu Trong Trái Tim (The Narcissist You Know),Joseph Burgo PhD,135000,88000,230,Sách tư duy - Kỹ năng sống,34,5.0,404,Nhà Xuất Bản Phụ Nữ Việt Nam
 155049277,IELTS Key Writing - Công Thức Học Nhanh IELTS Writing Task 1,Ngô Huy Tú,119000,65400,154,Sách Học Tiếng Anh,25,4.8,132,Nhà Xuất Bản Đại Học Quốc Gia Hà Nội
@@ -1190,7 +1189,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 35723007,"Đừng Cúi Đầu Mà Khóc , Hãy Ngẩng Đầu Mà Đi",Lư Tư Hạo,89000,74900,6346,Sách tư duy - Kỹ năng sống,1008,4.8,312,Không rõ
 195969666,86 - Eightysix - Ep.6,ASATO ASATO,145000,90001,374,Light novel,96,5.0,384,Nhà Xuất Bản Hồng Đức
 115266692,Sách - Ám Ảnh Sợ Xã Hội - Chạy Trốn Hay Đối Mặt,Lý Thế Cường,125000,80001,3056,Sách tư duy - Kỹ năng sống,669,4.8,304,Nhà Xuất Bản Thanh Niên
-198419652,Thiên Sứ Nhà Bên – Tập 4,Không rõ,95000,71200,1110,Khác,248,5.0,263,Nhà Xuất Bản Kim Đồng
+198419652,Thiên Sứ Nhà Bên – Tập 4,Không rõ,95000,71200,1110,Khác,248,5.0,264,Nhà Xuất Bản Kim Đồng
 568762,Tam Quốc Diễn Nghĩa (Trọn Bộ 04 Tập),La Quán Trung,350000,182000,2722,Tác phẩm kinh điển,689,4.7,488,Nhà Xuất Bản Văn Học
 149153655,Phù Thuật Và Tín Ngưỡng An Nam,Paul Giran,290000,223000,809,Sách Phong Tục - Tập Quán,180,5.0,410,Nhà Xuất Bản Thế Giới
 32192511,Checklist Thông Minh Cho Mọi Dự Án,Richard Newton,129000,84100,1390,Sách kỹ năng làm việc,81,4.6,356,Không rõ
@@ -1198,9 +1197,9 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 98740795,Khúc Hát Của Cây,David George Haskell,175000,118000,342,Lĩnh vực khác,43,4.8,332,Nhà Xuất Bản Thế Giới
 76531748,Sách DevUP,Không rõ,149000,149000,1178,Sách tư duy - Kỹ năng sống,277,4.8,204,Nhà Xuất Bản Thế Giới
 71149569,Cách kiếm lợi nhuận 18.000% từ thị trường chứng khoán - Trade Like An O'Neil Disciple,Gil Morales,499000,499000,3463,"Sách tài chính, tiền tệ",757,5.0,556,Nhà Xuất Bản Thế Giới
-196849409,"Gửi Em, Người Bất Tử - Tập 11 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,199,Khác,25,5.0,263,NXB Trẻ
+196849409,"Gửi Em, Người Bất Tử - Tập 11 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,199,Khác,25,5.0,264,NXB Trẻ
 114447395,Mùa Thu Của Cây Dương,Kazumi Yumoto,62000,37200,462,Tiểu Thuyết,105,5.0,204,Nhà Xuất Bản Văn Học
-202851047,One Piece Color Walk TIGER - Tuyển tập tranh Eiichiro Oda - Tập 9,Không rõ,130000,125000,68,Khác,8,5.0,263,Nhà Xuất Bản Kim Đồng
+202851047,One Piece Color Walk TIGER - Tuyển tập tranh Eiichiro Oda - Tập 9,Không rõ,130000,125000,68,Khác,8,5.0,264,Nhà Xuất Bản Kim Đồng
 3698473,"Bạn Chỉ Cần Sống Tốt, Trời Xanh Tự An Bài",Kotoha Yao,89000,62001,19588,Sách tư duy - Kỹ năng sống,697,4.7,200,Không rõ
 188487640,Dragon Ball Full Color - Phần Năm: Truy Lùng Cell Bọ Hung  - Tập 2 [Tặng Ngẫu Nhiên 1 Trong 2 Mẫu Postcard Nhân Vật],Akira Toriyama,77000,66001,561,Khác,75,5.0,228,Nhà Xuất Bản Kim Đồng
 173174175,Suy Tưởng( Tặng kèm sổ tay),Marcus Aurelius,170000,153000,140,Sách tư duy - Kỹ năng sống,24,5.0,392,Nhà Xuất Bản Tri Thức
@@ -1238,12 +1237,12 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 11357193,Những Cuộc Phiêu Lưu Của Huckleberry Finn,Mark Twain,98000,70500,1334,Tác phẩm kinh điển,282,4.8,435,Không rõ
 7982626,Thế Giới Phẳng (Tái Bản),Thomas L. Friedman,310000,218300,9627,Sách tư duy - Kỹ năng sống,736,4.7,318,Không rõ
 20444622,Cẩm Nang Cấu Trúc Tiếng Anh,Trang Anh,98000,60001,14434,Sách Học Tiếng Anh,2636,4.8,423,Không rõ
-196849405,"Gửi Em, Người Bất Tử - Tập 7 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,211,Khác,28,5.0,263,NXB Trẻ
+196849405,"Gửi Em, Người Bất Tử - Tập 7 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,211,Khác,28,5.0,264,NXB Trẻ
 205986063,Bảo Vệ Trẻ Trước Chấn Thương Tâm Lý,Maggie Kline,210000,140700,24,Chăm sóc sức khỏe,1,5.0,308,Nhà Xuất Bản Thế Giới
-50516615,Combo Thám Tử Lừng Danh Conan Tập 41 - 50 (Bộ 10 cuốn),Aoyama Gosho,200000,200000,884,Khác,264,5.0,263,Nhà Xuất Bản Kim Đồng
+50516615,Combo Thám Tử Lừng Danh Conan Tập 41 - 50 (Bộ 10 cuốn),Aoyama Gosho,200000,200000,884,Khác,264,5.0,264,Nhà Xuất Bản Kim Đồng
 130233550,"Vượt Qua Âu Lo, Chữa Lành Tâm Trí - Kiểm Soát Trầm Cảm Trong 7 Tuần Bằng Liệu Pháp Nhận Thức Hành Vi",Tiến sĩ Seth J. Gillihan,189000,128000,651,Sách tư duy - Kỹ năng sống,91,4.8,404,Nhà Xuất Bản Dân Trí
 158972052,Cẩm Nang Con Trai,Violeta Basic,68000,44800,273,Sách Tâm Lý Tuổi Teen,14,5.0,136,Nhà Xuất Bản Tổng hợp TP.HCM
-197558905,Komi - Nữ Thần Sợ Giao Tiếp - Tập 13,Tomohito Oda,25000,25000,399,Khác,66,4.8,263,Nhà Xuất Bản Kim Đồng
+197558905,Komi - Nữ Thần Sợ Giao Tiếp - Tập 13,Tomohito Oda,25000,25000,399,Khác,66,4.8,264,Nhà Xuất Bản Kim Đồng
 94132196,Bộ Luật Lao Động Hiện Hành (Mới Nhất) Thông Qua Tại Kỳ Họp Thứ 8 Quốc Hội Khóa XIV,Không rõ,119000,45000,291,Luật - Văn Bản Luật,57,4.8,196,Nhà Xuất Bản Lao Động
 59362973,Osho Phụ Nữ - The Book Of Women,Osho,109000,76300,3159,Sách giáo dục,516,4.8,258,Nhà Xuất Bản Hà Nội
 85924601,Kéo Giãn Cơ Thể,James Shiuchi Nakano,125000,87500,821,Khác,128,4.8,193,Nhà Xuất Bản Công Thương
@@ -1253,17 +1252,17 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 116158321,7 Chiến Lược Thịnh Vượng Và Hạnh Phúc (Tái Bản 2021),Jim Rohn,85000,59500,782,Sách tư duy - Kỹ năng sống,103,4.8,318,Nhà Xuất Bản Thế Giới
 197657913,Những Giấc Mơ Ở Hiệu Sách Morisaki,Yagisawa Satoshi,75000,45000,65,Truyện ngắn - Tản văn - Tạp Văn,9,5.0,180,Nhà Xuất Bản Hà Nội
 196932342,Các nhân vật nổi tiếng trong lịch sử qua truyện tranh,Sophie Crépon,379000,227400,84,Kiến thức - Bách khoa,4,5.0,334,Nhà Xuất Bản Thế Giới
-107576379,"Sổ tay học sinh Destination B1,B2,C1&2",Không rõ,70000,66500,646,Khác,106,4.8,263,Không rõ
+107576379,"Sổ tay học sinh Destination B1,B2,C1&2",Không rõ,70000,66500,646,Sách tham khảo cấp I,106,4.8,456,Không rõ
 202895290,Chuyện Con Ốc Sên Muốn Biết Tại Sao Nó Chậm Chạp,Neil Gaiman,45000,27000,22,Sách tư duy - Kỹ năng sống,0,0.0,83,Nhà Xuất Bản Hội Nhà Văn
 2248197,Bóng Tối Và Ánh Sao,Laura Kinsale,135000,57001,239,Tiểu Thuyết,12,3.9,488,Không rõ
 167686691,"Sách Tổng Ôn Toán Học 12, Sách Ôn Thi THPT Quốc Gia Moon",Nhiều tác giả,200000,139000,986,Sách Luyện Thi Đại Học - Cao Đẳng,287,4.8,358,Nhà Xuất Bản Hồng Đức
 205745286,Chitose Trong Chai Ramune – Tập 2,Hiromu,105000,83900,29,Khác,4,5.0,448,Nhà Xuất Bản Kim Đồng
-196849406,"Gửi Em, Người Bất Tử - Tập 9 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,214,Khác,27,5.0,263,NXB Trẻ
+196849406,"Gửi Em, Người Bất Tử - Tập 9 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,214,Khác,27,5.0,264,NXB Trẻ
 6848781,Bí mật chuyên gia,Không rõ,198000,158400,843,Bài học kinh doanh,93,4.8,416,Không rõ
 192125792,Harry Potter và Hòn đá phù thủy (Tái Bản 2022),J.K.Rowling,150000,117000,105,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,12,5.0,407,NXB Trẻ
 190242072,Qủy Ấn - Bộ 2 tập ( Tập 1 và 2) - tặng kèm 1 bookmark,Trường Lê,291000,218000,282,Truyện kinh dị,71,5.0,309,Nhà Xuất Bản Dân Trí
 158307840,Kể Chuyện Rượu Vang,Nguyễn Ngọc Khánh Chi,199000,119400,378,Lĩnh vực khác,41,4.8,266,Nhà Xuất Bản Thế Giới
-200619493,Lớp Học Rùng Rợn - Tập 2,Emi Ishikawa,30000,30000,224,Khác,19,4.8,263,Nhà Xuất Bản Kim Đồng
+200619493,Lớp Học Rùng Rợn - Tập 2,Emi Ishikawa,30000,30000,224,Khác,19,4.8,264,Nhà Xuất Bản Kim Đồng
 162201947,One Piece - Tập 98: “Phút Huy Hoàng Của Những Trung Thần”,Eiichiro Oda,25000,25000,1097,Khác,197,5.0,200,Nhà Xuất Bản Kim Đồng
 186286177,Thiên Thần Nhỏ Của Tôi (Tái Bản 2022),Nguyễn Nhật Ánh,35000,25400,97,Truyện ngắn - Tản văn - Tạp Văn,14,4.7,140,NXB Trẻ
 78015041,Học Viện - The Institute (Stephen King),Stephen King,299000,209000,2118,Truyện trinh thám,617,4.7,688,Nhà Xuất Bản Thanh Niên
@@ -1273,7 +1272,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 71553537,Lời Nói Thần Kỳ Nuôi Dưỡng Những Đứa Trẻ Hạnh Phúc: 0 - 6 Tuổi,Erika Takeuchi,89000,62300,1321,Sách Làm Cha Mẹ,138,5.0,230,Nhà Xuất Bản Lao Động
 180867656,Báo Cáo Tài Chính Dưới Góc Nhìn Của Warren Buffett (Tái Bản 2021),Không rõ,105000,84000,75,"Sách tài chính, tiền tệ",8,5.0,209,Nhà Xuất Bản Hồng Đức
 76175345,Ăn Theo Nhóm Máu,Catherine Whitney,189000,117900,608,Khác,119,4.7,492,Nhà Xuất Bản Dân Trí
-204805812,Nhân Vật Hạ Cấp Tomozaki Tập 4,Yuki Yaku,111000,86000,49,Khác,6,5.0,263,Nhà Xuất Bản Kim Đồng
+204805812,Nhân Vật Hạ Cấp Tomozaki Tập 4,Yuki Yaku,111000,86000,49,Khác,6,5.0,264,Nhà Xuất Bản Kim Đồng
 191506228,Mikkusu - Hút Trọn 1500 Từ Vựng Tiếng Nhật - Song Ngữ,Hồng Hạnh,149000,99800,24,Sách Học Tiếng Nhật,2,5.0,376,Nhà Xuất Bản Dân Trí
 197587856,Kẻ Thù Không Đội Trời Chung Của Tôi Cuối Cùng Cũng Phá Sản – Tập 1 + 2,Tương Tử Bối,415000,321000,228,Truyện ngôn tình,67,4.8,896,Nhà Xuất Bản Hà Nội
 391045,80 Lời Bố Gửi Con Trai,Từ Ninh,65000,48750,93,Sách Tâm Lý Tuổi Teen,11,4.8,218,Không rõ
@@ -1297,7 +1296,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 49506137,Dạy Con Làm Giàu - Tập 3: Hướng Dẫn Đầu Tư (Tái Bản 2020),Robert T. Kiyosaki,155000,100200,3707,Bài học kinh doanh,601,5.0,530,NXB Trẻ
 205039751,Đúng Lúc Sẽ Hạnh Phúc Đúng Người Sẽ Bình Yên,Hẻoo,92000,72100,20,Truyện ngắn - Tản văn - Tạp Văn,1,5.0,232,Nhà Xuất Bản Phụ Nữ
 185242029,Vũ Điệu Quỷ Satan,Krasznahorkai László,158000,117000,205,Tiểu Thuyết,39,4.8,376,Nhà Xuất Bản Văn Học
-197558907,Bá Tước Tiểu Thư - Tập 4,Chieko Hosokawa,30000,26001,255,Khác,22,5.0,263,Nhà Xuất Bản Kim Đồng
+197558907,Bá Tước Tiểu Thư - Tập 4,Chieko Hosokawa,30000,26001,255,Khác,22,5.0,264,Nhà Xuất Bản Kim Đồng
 170708216,Kết Thúc Bán Hàng Đòn Quyết Định (Tái Bản),Brian Tracy,109000,72000,165,Sách Marketing - Bán hàng ,14,4.7,252,Nhà Xuất Bản Khoa học & kỹ thuật
 108501279,Viết Đi Đừng Sợ! Từ Tay Không Thành Tay Viết,Linh Phan,245000,171500,1574,Sách Marketing - Bán hàng ,309,5.0,228,Nhà Xuất Bản Lao Động
 45321596,Bách Khoa Thư Thực Tế Ảo Tăng Cường - Khủng Long 3D Tập 2,DEVAR,130000,123500,9,Kiến thức - Bách khoa,0,0.0,56,Nhà Xuất Bản Thế Giới
@@ -1346,7 +1345,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 47276023,Ánh Lửa Trong Tro Tàn,Sabaa Tahir,159000,79500,315,Tiểu Thuyết,64,4.6,460,Nhà Xuất Bản Hội Nhà Văn
 125528587,"Thần Với Chả Thoại (Những Câu Chuyện ""Mệt Mỏi"" Về Các Vị Thần)",Fanpage Thần với chả Thoại,139000,125000,850,Lĩnh vực khác,183,5.0,228,Nhà Xuất Bản Dân Trí
 195306005,Nhà thờ Đức Bà Paris (Bìa Cứng),Victor Hugo,650000,442000,171,Tác phẩm kinh điển,32,4.8,700,Nhà Xuất Bản Văn Học
-199045171,Migi & Dali - Tập 4,Nami Sano,40000,40000,240,Khác,21,5.0,263,Nhà Xuất Bản Kim Đồng
+199045171,Migi & Dali - Tập 4,Nami Sano,40000,40000,240,Khác,21,5.0,264,Nhà Xuất Bản Kim Đồng
 170706996,Điểm Bùng Phát ( Tái Bản),Malcolm Gladwell,179000,112770,250,Sách tư duy - Kỹ năng sống,25,4.6,404,Nhà Xuất Bản Thế Giới
 192048655,Tớ đã từng sợ hãi,Chandra Ghosh Ippen,75000,48001,63,Đạo đức - Kỹ năng sống,1,5.0,64,Nhà Xuất Bản Dân Trí
 73687713,Hagakure - Luận Đàm Về Cốt Tủy Võ Sĩ Đạo,Yamamoto Tsunetomo,135000,121500,1,Lĩnh vực khác,1,5.0,420,Nhà Xuất Bản Dân Trí
@@ -1356,13 +1355,13 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 3953475,Nuôi Con Không Phải Là Cuộc Chiến 2 (Trọn Bộ 3 Tập),Hachun Lyonnet (Hà Chũn),358000,277800,133,Sách Làm Cha Mẹ,33,5.0,333,Không rõ
 23088717,Jeff Bezos Và Kỷ Nguyên Amazon (Tái Bản),Brad Stone,110000,77000,1983,Bài học kinh doanh,275,4.7,403,Không rõ
 114228620,Combo Tiếng Hàn Tổng Hợp Sơ Cấp 1 Dành Cho Người Việt Nam Bản In Màu - Học Kèm App,nhieu tac gia,320000,224000,159,Sách Học Tiếng Hàn,45,5.0,378,Nhà Xuất Bản Đại Học Quốc Gia Hà Nội
-196016785,Ikigami - Tập 08,Motoro MASE,45000,39100,418,Khác,33,5.0,263,NXB Trẻ
+196016785,Ikigami - Tập 08,Motoro MASE,45000,39100,418,Khác,33,5.0,264,NXB Trẻ
 58932528,"Một Ngày Của Tôi Có 48 Giờ - 12 Thói Quen “Healthy & Balanced"" ",Anh Tuan Le,89000,65100,4204,Sách tư duy - Kỹ năng sống,847,4.8,224,Nhà Xuất Bản Hà Nội
 173515946,Tư Duy Như Một Kẻ Lập Dị,Steven D.Levitt,119000,78001,95,Sách tư duy - Kỹ năng sống,10,5.0,268,Nhà Xuất Bản Thế Giới
 205799432,Refresh! 20 Ngày Làm Mới Bản Thân,Không rõ,199000,159200,3601,Sách tư duy - Kỹ năng sống,0,0.0,318,Nhà Xuất Bản Thế Giới
 52798281,"Phương Pháp Giáo Dục Sớm Montessori Cho Trẻ Từ
  0 – 3 Tuổi",Không rõ,99000,65100,2468,Sách Làm Cha Mẹ,293,4.8,172,Nhà Xuất Bản Dân Trí
-196515664,Anh Em Phi Hành Gia - Tập 33,Chuya Koyama,45000,39100,206,Khác,16,5.0,263,NXB Trẻ
+196515664,Anh Em Phi Hành Gia - Tập 33,Chuya Koyama,45000,39100,206,Khác,16,5.0,264,NXB Trẻ
 31716464,"Nghệ Thuật Thị Giác & Những Vấn Đề Cơ Bản : Các Yếu Tố Thị Giác, Nguyên Lý Thị Giác, Tư Duy Thị Giác và Bố Cục Thị Giác",Uyên Huy,700000,645000,382,Mỹ Thuật - Kiến Trúc,75,4.8,600,Không rõ
 197655112,Bản Đồ Tư Duy Trong Thuyết Trình  (Tái bản 2022),Alphabooks,89000,55500,66,Sách kỹ năng làm việc,2,5.0,148,Nhà Xuất Bản Dân Trí
 186286184,Út Quyên Và Tôi (Tái Bản 2022),Nguyễn Nhật Ánh,35000,24500,91,Truyện ngắn - Tản văn - Tạp Văn,5,4.5,128,NXB Trẻ
@@ -1376,9 +1375,9 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 186237333,Thương tiến tửu - Tập 1 (Tiểu thuyết đam mỹ) -Tặng 1 bookmark,Đường Tửu Khanh,169000,96900,127,Truyện đam mỹ,35,5.0,456,Nhà Xuất Bản Hà Nội
 152517438,Dữ Liệu Bạch Kim (Văn Học Trinh Thám),Higashino Keigo,159000,112000,784,Truyện trinh thám,149,5.0,460,Nhà Xuất Bản Thanh Niên
 53293038,Julie Hay Nàng Héloïse Mới,Jean-Jacques Rousseau,299000,149500,297,Tiểu Thuyết,55,4.8,704,Nhà Xuất Bản Văn Học
-196851310,Migi & Dali - Tập 2,Nami Sano,40000,37100,221,Khác,19,5.0,263,Nhà Xuất Bản Kim Đồng
+196851310,Migi & Dali - Tập 2,Nami Sano,40000,37100,221,Khác,19,5.0,264,Nhà Xuất Bản Kim Đồng
 192115858,Chú Thuật Hồi Chiến -  Tập 5,Gege Akutami,30000,26001,2912,Khác,872,5.0,192,Nhà Xuất Bản Kim Đồng
-168231621,Thám Tử Kindaichi (Series Kỷ Niệm 20 Năm) - Boxset 5 Tập,Seimaru Amagi,170000,143001,1216,Khác,312,4.8,263,NXB Trẻ
+168231621,Thám Tử Kindaichi (Series Kỷ Niệm 20 Năm) - Boxset 5 Tập,Seimaru Amagi,170000,143001,1216,Khác,312,4.8,264,NXB Trẻ
 35283865,Bé Gái Khéo Tay Buộc Dây Giày,Không rõ,72000,61200,1,Văn học thiếu nhi,0,0.0,18,Không rõ
 19588948,Tâm Lý Dân Tộc An Nam,Paul Giran,169000,88570,3711,Lịch Sử Việt Nam,170,4.5,200,Không rõ
 50356123,Dạy Con Theo Cá Tính Của Con,Aki Wakamatsu,72000,50400,508,Sách Làm Cha Mẹ,51,4.8,242,Nhà Xuất Bản Lao Động
@@ -1412,7 +1411,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 202769486,TỬ HUYỆT CẢM XÚC,Roy Garn,149000,119200,39,Sách tư duy - Kỹ năng sống,1,5.0,318,Nhà Xuất Bản Hồng Đức
 10383904,Tôi Là Bêtô,Nguyễn Nhật Ánh,85000,68000,584,Truyện dài,136,5.0,357,Không rõ
 52004412,D. Trump - Nghệ Thuật Đàm Phán (Tái bản 2020),Donald J.Trump & Tony Schwartz,109000,77800,3379,"Sách quản trị, lãnh đạo",470,4.8,328,NXB Trẻ
-196849403,"Gửi Em, Người Bất Tử - Tập 8 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,217,Khác,26,5.0,263,NXB Trẻ
+196849403,"Gửi Em, Người Bất Tử - Tập 8 (Tái Bản 2022)",Yoshitoki Oima,30000,26000,217,Khác,26,5.0,264,NXB Trẻ
 52218420,"Điềm Tĩnh Trong Bận Rộn - Ít Hơn, Hiệu Quả Hơn",Không rõ,60000,60000,1,Sách kỹ năng làm việc,0,0.0,232,Nhà Xuất Bản Thanh Niên
 101870295,Thiên Quan Tứ Phúc - Tập 3,Mặc Hương Đồng Khứu,159000,91200,1879,Truyện ngôn tình,753,5.0,600,Nhà Xuất Bản Hà Nội
 182551492,Black Jack 10 (Bìa Mềm),Osamu Tezuka,30000,26000,918,Khác,112,5.0,200,NXB Trẻ
@@ -1426,7 +1425,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 191801175,Nhịn Khô,Sergey Filonov,139000,97300,219,Kiến thức - Bách khoa,17,4.7,296,Nhà Xuất Bản Thế Giới
 4363787,Animorphs - Người Hóa Thú (Tập 5) : Thú Săn Mồi,Katherine Applegate,63000,63000,47,Truyện Giả tưởng - Huyền Bí - Phiêu Lưu,4,4.8,168,Không rõ
 70016684,B2B Tinh Gọn - Xây Dựng Sản Phẩm Mà Các Doanh Nghiệp Muốn,Estienne Garbugli,148000,111000,352,Sách Marketing - Bán hàng ,49,4.7,330,Nhà Xuất Bản Phụ Nữ Việt Nam
-201048327,666 Satan - Tập 1,Seishi Kishimoto,30000,27100,115,Khác,14,5.0,263,Nhà Xuất Bản Kim Đồng
+201048327,666 Satan - Tập 1,Seishi Kishimoto,30000,27100,115,Khác,14,5.0,264,Nhà Xuất Bản Kim Đồng
 11841468,Đừng Bán Bảo Hiểm Hãy Trao Giải Pháp,Pilot Nguyễn,120000,97100,3763,Sách kỹ năng làm việc,184,4.7,248,Nhà Xuất Bản Tổng hợp TP.HCM
 111271075,Nói Với Con Về Giới Tính,Educate and Empower Kids,138000,82800,324,Sách Hôn Nhân - Giới Tính,44,4.5,320,Nhà Xuất Bản Dân Trí
 160370181,Khói Trời Lộng Lẫy (Tập Truyện Ngắn Nguyễn Ngọc Tư)(Tái Bản),Nguyễn Ngọc Tư,90000,64200,345,Truyện ngắn - Tản văn - Tạp Văn,53,5.0,144,NXB Trẻ
@@ -1483,7 +1482,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 184101370,Sức Mạnh Của Thói Quen (Tái Bản 2022),Charles Duhigg,169000,106470,134,Sách tư duy - Kỹ năng sống,12,5.0,436,Nhà Xuất Bản Lao Động
 980770,Chí Phèo,Nam Cao,48000,36100,1932,Truyện ngắn - Tản văn - Tạp Văn,314,4.8,207,Không rõ
 58946834,Sách PACE Books - Lãnh đạo tỉnh thức (The Mindful Leader) - Michael Bunting,Michael Bunting,105000,83500,642,"Sách quản trị, lãnh đạo",58,5.0,212,Nhà Xuất Bản Tổng hợp TP.HCM
-197558906,Tanaka Lúc Nào Cũng Vật Vờ - Tập 2,Nozomi Uda,38000,37000,219,Khác,28,5.0,263,Nhà Xuất Bản Kim Đồng
+197558906,Tanaka Lúc Nào Cũng Vật Vờ - Tập 2,Nozomi Uda,38000,37000,219,Khác,28,5.0,264,Nhà Xuất Bản Kim Đồng
 193209826,Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An,Trần Hồng Ngọc,129000,88300,71,Du ký,7,5.0,216,Nhà Xuất Bản Lao Động
 160370177,Không Ai Qua Sông (Tập Truyện Ngắn Nguyễn Ngọc Tư)(Tái Bản),Nguyễn Ngọc Tư,100000,71900,127,Truyện ngắn - Tản văn - Tạp Văn,13,4.8,170,NXB Trẻ
 40433264,Combo Bí Ẩn Mãi Mãi Là Bí Ẩn( Trọn bộ 6 cuốn)( tặng kèm sổ Tay Xương Rồng),Không rõ,270000,175000,738,Kiến Thức Bách Khoa,169,5.0,351,NXB Trẻ
@@ -1491,11 +1490,11 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 1697189,Nghìn Bí Mật Của Gà Con,Claude Ponti,54000,27000,275,Truyện kể cho bé,5,4.6,26,Không rõ
 16422526,365 Chuyện Kể Trước Giờ Đi Ngủ - Những Câu Chuyện Phát Triển Chỉ Số Tình Cảm EQ (Tái Bản),Không rõ,78000,57000,1219,Truyện kể cho bé,185,4.7,164,Không rõ
 1864759,Giáo Trình HSK 3 - Sách Bài Tập (Kèm MP3),Khương Lệ Bình,188000,133001,1627,Sách Học Tiếng Hoa,218,5.0,168,Nhà Xuất Bản Tổng hợp TP.HCM
-68350215,Combo Chinh Phục Luyện Thi Vào 10 Toán Văn Anh Theo Chủ Đề,Nhiều tác giả,477000,306000,1090,Khác,344,5.0,263,Nhà Xuất Bản Đại Học Quốc Gia Hà Nội
+68350215,Combo Chinh Phục Luyện Thi Vào 10 Toán Văn Anh Theo Chủ Đề,Nhiều tác giả,477000,306000,1090,Sách tham khảo cấp II,344,5.0,456,Nhà Xuất Bản Đại Học Quốc Gia Hà Nội
 51251660,Chữa Lành Ánh Sáng Bản Thể,Barbara Ann Brennan,220000,154000,2058,Kiến Thức Bách Khoa,245,4.8,567,Nhà Xuất Bản Thế Giới
 197704314,Tri Kỷ Của Bụt (TBL5),Thích Nhất Hạnh,165000,147000,54,Khác,3,5.0,332,Nhà Xuất Bản Thế Giới
-73176340,Combo 10 cuốn Truyện Ngụ ngôn Aesop Song ngữ - Truyện kể mầm non (giao ngẫu nhiên), ,103635,56999,901,Truyện kể cho bé,153,4.8,16,Nhà Xuất Bản Đồng Nai
-195801644,Black Jack - Tập 13 (Bìa Cứng),Osamu Tezuka,135000,117400,261,Khác,27,5.0,263,NXB Trẻ
+73176340,Combo 10 cuốn Truyện Ngụ ngôn Aesop Song ngữ - Truyện kể mầm non (giao ngẫu nhiên),Không rõ,103635,56999,901,Truyện kể cho bé,153,4.8,16,Nhà Xuất Bản Đồng Nai
+195801644,Black Jack - Tập 13 (Bìa Cứng),Osamu Tezuka,135000,117400,261,Khác,27,5.0,264,NXB Trẻ
 193994147,MADE IN VIETNAM ,Không rõ,279000,279000,88,Sách khởi nghiệp,9,5.0,328,Nhà Xuất Bản Thanh Niên
 186088881,Ủ Một Miền Thơm,Vũ Thượng,110000,73700,180,Truyện ngắn - Tản văn - Tạp Văn,22,5.0,188,Nhà Xuất Bản Dân Trí
 198644085,Poco Ở Thế Giới Udon 6 - Một Mùa Thu Sóng Gió,Nodoka Shinomaru,58000,50000,116,Khác,12,5.0,192,Nhà Xuất Bản Phụ Nữ
@@ -1505,7 +1504,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 51702499,Combo Trọn Bộ 4 Cuốn Hackers IELTS (Listening + Reading + Speaking + Writing),Viện ngôn ngữ Hackers,876000,613200,24,Sách Học Tiếng Anh,4,5.0,423,Nhà Xuất Bản Thế Giới
 52788074,Khu Vườn Mùa Hạ (Tái Bản 2020),Kazumi Yumoto,68000,64600,51,Tiểu Thuyết,16,5.0,232,Nhà Xuất Bản Văn Học
 90257133,Nghĩ Như Hoàng Đế La Mã - Triết Lý Khắc Kỷ Của Marcus Aurelius,Donald Robertson,150000,87600,871,Triết Học,169,5.0,430,NXB Trẻ
-197353397,Kaguya-Sama: Cuộc Chiến Tỏ Tình - Tập 1,Aka Akasaka,40000,38000,1064,Khác,98,5.0,263,Nhà Xuất Bản Kim Đồng
+197353397,Kaguya-Sama: Cuộc Chiến Tỏ Tình - Tập 1,Aka Akasaka,40000,38000,1064,Khác,98,5.0,264,Nhà Xuất Bản Kim Đồng
 28292286,Combo 30 Chủ Đề Từ Vựng Tiếng Anh (2 Tập),Trang Anh,380000,230001,4644,Sách Học Tiếng Anh,1201,5.0,500,Không rõ
 148802194,Bản Đồ Các Ngày,Ransom Riggs,175000,105000,623,Tiểu Thuyết,138,4.8,510,Nhà Xuất Bản Hội Nhà Văn
 81499978,Ngôi Sao Của Quỷ,Jo Nesbo,209000,125400,688,Truyện trinh thám,182,4.8,508,Nhà Xuất Bản Hà Nội
@@ -1530,15 +1529,15 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 131139976,Cao Thủ Đổi Đen Thay Trắng - Tập 4 (Dành Cho 18+),Phong Thư Lưu Ngốc,159000,111300,388,Tiểu Thuyết,148,5.0,504,Nhà Xuất Bản Hà Nội
 186578991,"Nghĩ Đơn Giản, Sống Đơn Thuần (Tái Bản) - Tặng 1 Bookmark",Tolly Burkan,89000,71000,136,Sách tư duy - Kỹ năng sống,16,5.0,184,Nhà Xuất Bản Thế Giới
 145092081,Khóa Học Nấu Ăn Tại Gia Của Gordon Ramsay,Gordon Ramsay,255000,204000,434,Sách Nấu ăn,81,4.8,312,Nhà Xuất Bản Thế Giới
-202961772,Dragon Quest - Dấu ấn Roto (Dragon Quest Saga Emblem of Roto) Perfect Edition - Tập 11 - Tặng Kèm Bookmark PVC,Kamui Fujiwara,75000,75000,38,Khác,1,5.0,263,Nhà Xuất Bản Kim Đồng
+202961772,Dragon Quest - Dấu ấn Roto (Dragon Quest Saga Emblem of Roto) Perfect Edition - Tập 11 - Tặng Kèm Bookmark PVC,Kamui Fujiwara,75000,75000,38,Khác,1,5.0,264,Nhà Xuất Bản Kim Đồng
 206837193,Khách Hàng Thật Sự Cần Gì?,Jim Kalbach,180000,120600,9,Sách kỹ năng làm việc,0,0.0,336,Nhà Xuất Bản Thế Giới
 50070695,"Sách PACE Books - Thiết kế tổ chức (Organizational Design) - Richard M. Burton, Brge Obel, Dorthe Djbak Hkonsson.",Không rõ,175000,139200,382,"Sách quản trị, lãnh đạo",35,4.5,452,Nhà Xuất Bản Tổng hợp TP.HCM
 777517,Phong Thủy Trong Bất Động Sản ,Jo Incheol,198000,131800,1879,Sách Phong Thủy - Kinh Dịch,181,4.6,324,Không rõ
 56377199,Giải Mã Siêu Trí Tuệ,Vishen Lakhiani,159000,106530,306,Sách tư duy - Kỹ năng sống,28,4.6,356,Nhà Xuất Bản Công Thương
-199045168,Học Viện Siêu Anh Hùng Vigilantes - My Hero Academia Illegals - Tập 2: Phán Xử,Kohei Horikoshi,30000,30000,257,Khác,27,5.0,263,Nhà Xuất Bản Kim Đồng
+199045168,Học Viện Siêu Anh Hùng Vigilantes - My Hero Academia Illegals - Tập 2: Phán Xử,Kohei Horikoshi,30000,30000,257,Khác,27,5.0,264,Nhà Xuất Bản Kim Đồng
 26135056,Bộ 2 cuốn sách về kinh tế hay nhất : Dạy Con Làm Giàu (Tập 1) - Để Không Có Tiền Vẫn Tạo Ra Tiền  + Dạy Con Làm Giàu (Tập 2) - Sử Dụng Đồng Vốn (Tặng kèm Bookmark thiết kế  AHA),Robert T Kiyosaki,185000,140600,213,Bài học kinh doanh,48,5.0,350,NXB Trẻ
 335337,Tôi Tài Giỏi - Bạn Cũng Thế,Adam Khoo,135000,121000,146,Sách nghệ thuật sống đẹp,12,5.0,304,Nhà Xuất Bản Phụ Nữ
-174215334,Ajin - Boxset Số 1 (Tập 1 - 6) - Tặng Kèm Bookmark 3D,Sakurai Gamon,300000,252001,1643,Khác,555,4.6,263,NXB Trẻ
+174215334,Ajin - Boxset Số 1 (Tập 1 - 6) - Tặng Kèm Bookmark 3D,Sakurai Gamon,300000,252001,1643,Khác,555,4.6,264,NXB Trẻ
 109018530,Vườn Hoa Mạt Dược Ký Sự - Những Kỳ Án Nổi Tiếng Chưa Có Lời Giải (Tặng Kèm 1 Bookmark Chữ Nhật),Hà Mạt Bì,139000,89001,1876,Truyện trinh thám,554,4.8,400,Nhà Xuất Bản Thế Giới
 137561095,Combo 2 Cuốn Sách Tâm Lý Học Nhập Môn: Toàn Thư Tâm Lý Học + Từ Điển Tâm Lý,Motofumi Fukahori,254000,177001,985,Sách tư duy - Kỹ năng sống,276,5.0,796,Nhà Xuất Bản Thế Giới
 168576295,Mình Phải Sống Như Biển Rộng Sông Dài,Xu,109000,76001,1826,Truyện ngắn - Tản văn - Tạp Văn,295,5.0,220,Nhà Xuất Bản Thế Giới
@@ -1561,11 +1560,11 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 87978940,Hashtag No.4 Food - Khởi Sự Kinh Doanh Dịch Vụ Ăn Uống (2 Cuốn),Không rõ,325000,227500,614,Sách khởi nghiệp,130,5.0,448,Nhà Xuất Bản Dân Trí
 205927383,Mất Kiểm Soát ( Tặng kèm Bookmark),Trương Chấn,380000,266000,13,Truyện trinh thám,1,5.0,652,Nhà Xuất Bản Văn Học
 195801673,Khoa Học Khám Phá - Vũ Trụ Trong Vỏ Hạt Dẻ (Tái Bản 2022),Stephen Hawking,108000,88000,101,Kiến Thức Bách Khoa,11,5.0,351,NXB Trẻ
-188408329,Combo Người Bà Tài Giỏi Vùng Saga (Tập 1+2+3+4+5+6+7+8)_Tặng Kèm Khóa và Bookmark,Không rõ,416000,366080,22,Khác,7,5.0,263,Nhiều Nhà Xuất Bản
+188408329,Combo Người Bà Tài Giỏi Vùng Saga (Tập 1+2+3+4+5+6+7+8)_Tặng Kèm Khóa và Bookmark,Không rõ,416000,366080,22,Khác,7,5.0,264,Nhiều Nhà Xuất Bản
 10671296,Triết Học - Khái Lược Những Tư Tưởng Lớn,DK,390000,299000,3817,Sách tư duy - Kỹ năng sống,348,4.8,352,Không rõ
 185909477,Tin Vào Chính Mình,Louise L. Hay,68000,58100,153,Sách tư duy - Kỹ năng sống,20,5.0,160,Nhà Xuất Bản Tổng hợp TP.HCM
 96867790,Xuất Nhập Khẩu Thực Chiến (Tặng kèm 06 tháng Account kho tài liệu),Phạm Ngọc Anh,590000,590000,811,Bài học kinh doanh,163,4.8,350,Nhà Xuất Bản Tài Chính
-197990869,Doraemon Movie Story: Tân Nobita Và Chuyến Phiêu Lưu Vào Xứ Quỷ - 7 Dũng Sĩ Phép Thuật,Fujiko F Fujio,30000,29000,156,Khác,12,5.0,263,Nhà Xuất Bản Kim Đồng
+197990869,Doraemon Movie Story: Tân Nobita Và Chuyến Phiêu Lưu Vào Xứ Quỷ - 7 Dũng Sĩ Phép Thuật,Fujiko F Fujio,30000,29000,156,Khác,12,5.0,264,Nhà Xuất Bản Kim Đồng
 186265449,Bạn Đang Nghịch Gì Với Đời Mình? (Tái Bản 2022),J.Krishnamurti,124000,70600,75,Sách tư duy - Kỹ năng sống,4,5.0,308,Nhà Xuất Bản Hồng Đức
 145167507,Combo 2 Cuốn: Tư Duy Phản Biện+ Tư Duy Logic,Không rõ,195000,155000,171,Sách tư duy - Kỹ năng sống,31,4.8,318,Nhà Xuất Bản Thế Giới
 59362963,Osho Đàn Ông - The Book Of Men,Osho,119000,83300,1315,Sách giáo dục,181,4.8,325,Nhà Xuất Bản Hà Nội
@@ -1581,12 +1580,12 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 194205615,Anh Chàng Hobbit,J. R. R. Tolkien,175000,128000,74,Văn học thiếu nhi,11,4.6,400,Nhà Xuất Bản Hội Nhà Văn
 1674007,Trước Khi Nhắm Mắt,Keigo Higashino,108000,71000,3728,Truyện trinh thám,281,4.6,396,Không rõ
 110112108,Phương Pháp Đầu Tư Warren Buffett,Robert G. Hagstrom,108000,97000,9,Bài học kinh doanh,1,1.0,360,Nhà Xuất Bản Công Thương
-197781968,Migi & Dali Tập 3,Nami Sano,40000,40000,242,Khác,20,5.0,263,Nhà Xuất Bản Kim Đồng
+197781968,Migi & Dali Tập 3,Nami Sano,40000,40000,242,Khác,20,5.0,264,Nhà Xuất Bản Kim Đồng
 89591450,Từ Vô Hình Đến Hữu Hình: Khám Phá Thế Giới Diệu Kỳ Của Các Loại Vật Chất ,Mark Miodownik,99000,67400,1679,Kiến Thức Bách Khoa,441,5.0,303,Nhà Xuất Bản Thế Giới
 73207240,Xa Ngoài Kia Nơi Loài Tôm Hát - Where The Crawdads Sing,Delia Owens,165000,140000,4,Tiểu Thuyết,0,0.0,374,NXB Trẻ
 194205609,Ai Đó Chạy Cùng Ta,David Grossman,225000,142001,63,Truyện ngắn - Tản văn - Tạp Văn,2,5.0,476,Nhà Xuất Bản Hội Nhà Văn
 187827438,Vọng Lâu Tử Thần,Agatha Christie,120000,88800,277,Truyện trinh thám,49,5.0,278,NXB Trẻ
-196515661,Văn Phòng Thám Tử Quái Vật - Tập 12,Sho Aimoto,30000,26100,268,Khác,32,5.0,263,NXB Trẻ
+196515661,Văn Phòng Thám Tử Quái Vật - Tập 12,Sho Aimoto,30000,26100,268,Khác,32,5.0,264,NXB Trẻ
 103284675,Buồng Tắm,Jean,80000,44000,391,Tiểu Thuyết,65,4.8,104,Nhà Xuất Bản Hội Nhà Văn
 30757184,Ngôi Nhà Nghìn Hành Lang,Diana Wynne Jones,108000,64800,1050,Sách tư duy - Kỹ năng sống,44,4.8,336,Không rõ
 194033594,"Combo 2 Sách ID Tổng Ôn Toán Học, Sách Ôn Thi Thptqg Có Đáp Án Chi Tiết (Tập1 + Tập 2)", Moon,400000,245000,44,Sách tham khảo cấp III,9,5.0,750,Nhà Xuất Bản Hồng Đức
@@ -1599,7 +1598,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 1750249,Phân Tích Chứng Khoán,Benjamin Graham,499000,325001,9776,Sách kỹ năng làm việc,550,4.7,828,Không rõ
 1041102,Giáo Trình Hán Ngữ Tập 1 - Quyển Thượng (Phiên Bản Mới - App),Dương Ký Châu (Chủ biên),89000,89000,417,Sách Học Tiếng Hoa,15,4.5,158,Nhà Xuất Bản Đại Học Quốc Gia Hà Nội
 168559524,Gia Đình Tỉnh Thức,Shefali Tsabary,209000,146300,447,Sách Làm Cha Mẹ,57,5.0,500,Nhà Xuất Bản Lao Động
-196422807,Vivre Card - Thẻ Dữ Liệu Nhân Vật One Piece Booster Pack - Mối Uy Hiếp Ở Punk Hazard,Eiichiro Oda,25000,25000,215,Khác,31,5.0,263,Nhà Xuất Bản Kim Đồng
+196422807,Vivre Card - Thẻ Dữ Liệu Nhân Vật One Piece Booster Pack - Mối Uy Hiếp Ở Punk Hazard,Eiichiro Oda,25000,25000,215,Khác,31,5.0,264,Nhà Xuất Bản Kim Đồng
 95039245,Sách Tư Duy Tâm Lý Hay Nhất - Thuật đọc tâm,Không rõ,239000,160130,37,Sách tư duy - Kỹ năng sống,3,5.0,548,Nhà Xuất Bản Thanh Niên
 45321622,Cuộc Trốn Chạy Của Josef Mengele,Olivier Guez,100000,50000,298,Tiểu Thuyết,47,4.8,256,Nhà Xuất Bản Hội Nhà Văn
 520358,Tuyển Tập Mario Puzo (Trọn Bộ 5 Quyển),Mario Puzo,610000,432000,4124,Tác phẩm kinh điển,418,4.7,488,Không rõ
@@ -1622,7 +1621,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 53095305,Trong Chúng Tôi Có Kẻ Nói Dối,Không rõ,139000,76450,569,Tiểu Thuyết,122,4.7,340,Nhà Xuất Bản Hội Nhà Văn
 14645355,How Things Work - Cách Mọi Vật Vận Hành,T.J.Resler,255000,216750,5,Kiến thức - Bách khoa,1,5.0,207,Không rõ
 201622315,HOÀNG HÔN CỦA BẦY MÃNH THÚ - Marc Levy - Thiên Thạch dịch – Nhã Nam - NXB Hội Nhà Văn (Bìa mềm),Không rõ,189000,161000,1700,Truyện trinh thám,0,0.0,424,Nhà Xuất Bản Hội Nhà Văn
-189765038,Python lập trình thuật toán, Bùi Việt Hà,95000,95000,271,Khác,37,5.0,178,Nhà Xuất Bản Đại Học Quốc Gia Hà Nội
+189765038,Python lập trình thuật toán, Bùi Việt Hà,95000,95000,271,Lập Trình,37,5.0,178,Nhà Xuất Bản Đại Học Quốc Gia Hà Nội
 189657050,Vivre Card - Thẻ Dữ Liệu Nhân Vật One Piece Starter Set - Tập 2 [Tặng Kèm Obi],Eiichiro Oda,120000,112000,307,Khác,65,5.0,32,Nhà Xuất Bản Kim Đồng
 193895773,Content Marketing Trong Kỷ Nguyên 4.0 ( Tái Bản),Alexander Jutkowitz,169000,101400,88,Sách Marketing - Bán hàng ,5,5.0,340,Nhà Xuất Bản Lao Động
 33543681,Chuyện Về Cô Gái Ấy,Ichikawa Takuji,108000,59400,943,Tiểu Thuyết,112,4.8,316,Không rõ
@@ -1632,8 +1631,8 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 75601401,Nghệ Thuật Bán Hàng Bằng Câu Chuyện,Paul Smith,180000,129600,854,Sách Marketing - Bán hàng ,114,5.0,334,Nhà Xuất Bản Hồng Đức
 109982956,Leonardo Da Vinci - Thiên Tài Toàn Năng,Rasmus Hoài Nam,60000,37400,228,Kiến thức - Bách khoa,33,5.0,174,Nhà Xuất Bản Thanh Niên
 160082484,Thực Hành Drucker,William A. Cohen,165000,99000,180,"Sách quản trị, lãnh đạo",12,4.8,392,Nhà Xuất Bản Dân Trí
-200705613,Doraemon Movie Story: Nobita Và Cuộc Đại Thủy Chiến Sở Xứ Sở Người Cá (Tái Bản 2022),Fujiko F Fujio,32000,32000,1121,Khác,0,0.0,263,Nhà Xuất Bản Kim Đồng
-196515668,"Quán Rượu Dị Giới ""Nobu"" - Tập 11",Natsuya Semikawa,40000,32000,137,Khác,16,5.0,263,NXB Trẻ
+200705613,Doraemon Movie Story: Nobita Và Cuộc Đại Thủy Chiến Sở Xứ Sở Người Cá (Tái Bản 2022),Fujiko F Fujio,32000,32000,1131,Khác,0,0.0,264,Nhà Xuất Bản Kim Đồng
+196515668,"Quán Rượu Dị Giới ""Nobu"" - Tập 11",Natsuya Semikawa,40000,32000,137,Khác,16,5.0,264,NXB Trẻ
 75697499,Đảo Mộng Mơ - Ấn Bản Kỷ Niệm 10 Năm Xuất Bản Lần Đầu,Nguyễn Nhật Ánh,200000,116001,1876,Văn học thiếu nhi,446,5.0,220,Nhà Xuất Bản Văn Học
 1639671,Ngay Bây Giờ Hoặc Không Bao Giờ (Tái Bản),J. S. Scott,79000,52800,5698,Sách tư duy - Kỹ năng sống,212,4.7,142,Không rõ
 544731,Giáo Trình Chuẩn HSK 2 - Bài Học (Kèm file MP3),Khương Lệ Bình,198000,153600,95,Sách Học Tiếng Hoa,9,5.0,144,Nhà Xuất Bản Tổng hợp TP.HCM
@@ -1717,7 +1716,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 46789751,Chuyện Nàng O,Pauline Réage,116000,74001,287,Tiểu Thuyết,34,4.6,328,Nhà Xuất Bản Hội Nhà Văn
 70743650,Sổ Tay Nhà Thôi Miên II,Cao Minh,145000,106000,3387,Lĩnh vực khác,971,4.8,304,Nhà Xuất Bản Tổng hợp TP.HCM
 199216985,Yên,@yenlamtho,88000,67400,108,Truyện ngắn - Tản văn - Tạp Văn,9,5.0,256,Nhà Xuất Bản Phụ Nữ
-198414410,Kaguya-Sama: Cuộc Chiến Tỏ Tình - Tập 2,Không rõ,40000,40000,539,Khác,62,5.0,263,Nhà Xuất Bản Kim Đồng
+198414410,Kaguya-Sama: Cuộc Chiến Tỏ Tình - Tập 2,Không rõ,40000,40000,539,Khác,62,5.0,264,Nhà Xuất Bản Kim Đồng
 109998520,Bạn Đỡ Ngu Ngơ Rồi Đấy (Bạn Muốn Chế Ngự Tâm Lý Đám Đông)(Tái Bản),David McRaney,129000,92400,614,Sách tư duy - Kỹ năng sống,130,5.0,384,Nhà Xuất Bản Thế Giới
 197657918,Sát Nhân Liên Hoàn Kế (Tập 1),Thân Tử Thần,154000,108001,60,Truyện trinh thám,13,5.0,408,Nhà Xuất Bản Dân Trí
 192475875,Sáu Người Đi Khắp Thế Gian - Tập 1,James Albert Michener,115000,73001,46,Tác phẩm kinh điển,2,4.5,348,Nhà Xuất Bản Văn Học
@@ -1727,7 +1726,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 186290791,Cô gái đến từ hôm qua (Tái Bản 2022),Nguyễn Nhật Ánh,85000,59500,153,Truyện ngắn - Tản văn - Tạp Văn,14,5.0,178,NXB Trẻ
 80141516,Hackers IELTS Basic- Speaking,Hackers,189000,117900,813,Sách Học Tiếng Anh,214,5.0,304,Nhà Xuất Bản Thế Giới
 113656455,Giáo Trình Tư Tưởng Hồ Chí Minh (Dành Cho Bậc Đại Học Hệ Không Chuyên Lý Luận Chính Trị) - Bộ mới năm 2021,Bộ Giáo Dục Và Đào Tạo,55000,55000,1584,Giáo Trình Đại Học - Cao Đẳng,259,5.0,272,Nhà Xuất Bản Chính Trị Quốc Gia Sự Thật
-113575309,ĐƯỜNG XƯA MÂY TRẮNG BÌA MỀM,Thiền sư Thích Nhất Hạnh ,280000,280000,1,Khác,0,0.0,263,Nhà Xuất Bản Hồng Đức
+113575309,ĐƯỜNG XƯA MÂY TRẮNG BÌA MỀM,Thiền sư Thích Nhất Hạnh ,280000,280000,1,Khác,0,0.0,264,Nhà Xuất Bản Hồng Đức
 7958959,5 Điểm Chết Trong Teamwork,Patrick Lencioni,128000,84400,2308,Sách kỹ năng làm việc,134,4.8,251,Nhà Xuất Bản Tổng hợp TP.HCM
 199176577,Tâm Lý Học Thói Quen – Quan Sát Có Chủ Đích - Tặng Kèm Bookmark 2 Mặt,Chu Kiến Quốc,99000,60380,92,Lĩnh vực khác,7,5.0,265,Nhà Xuất Bản Thế Giới
 138504802,Kinh Doanh Giỏi Phải Kiếm Được Tiền,Donald Miller,159000,111000,320,Sách Marketing - Bán hàng ,33,4.8,368,Nhà Xuất Bản Công Thương
@@ -1754,7 +1753,7 @@ Sức Mạnh Chữa Lành Của Những Thữ Thách Trong Cuộc Sống",Robert
 187827433,Sau Tang Lễ,Agatha Christie,145000,106500,258,Truyện trinh thám,48,5.0,368,NXB Trẻ
 154245459,Nghiền Từ Vựng Tiếng Anh - Học Qua Gốc Từ Bằng Hình Ảnh - Gốc Từ Là Bí Quyết Để Ghi Nhớ Hàng Nghìn Từ Vựng - Quyển 1,Kenji Shimizu,135000,78200,182,Sách Học Tiếng Anh,27,5.0,288,Nhà Xuất Bản Hà Nội
 110181955,Sách - Luyện Nhớ 3300 Chữ Hán Tập 1 - Phiên Bản 2021 - Học Từ Vựng Qua 214 Bộ Thủ - Hack Não Chữ Hán - Phạm Dương Châu,nhieu tac gia,149000,149000,531,Sách Học Tiếng Hoa,139,4.8,303,Nhà Xuất Bản Thanh Niên
-200619499,Kaguya-Sama: Cuộc Chiến Tỏ Tình - Tập 3,Aka Akasaka,40000,37000,566,Khác,48,5.0,263,Nhà Xuất Bản Kim Đồng
+200619499,Kaguya-Sama: Cuộc Chiến Tỏ Tình - Tập 3,Aka Akasaka,40000,37000,566,Khác,48,5.0,264,Nhà Xuất Bản Kim Đồng
 545638,Làm Quen Triết Học Qua Biếm Họa,Michael F.Patton & Kevin Cannon,81000,44550,1332,Sách kinh tế học,8,5.0,167,Không rõ
 542690,Trong Gia Đình (Tái Bản 2016),Hector Malot,86000,56000,1325,Tác phẩm kinh điển,221,5.0,488,Không rõ
 197344449,Ký Ức Lịch Sử Về Sài Gòn Và Các Vùng Phụ Cận,Trương Vĩnh Ký,55000,40700,72,Truyện ngắn - Tản văn - Tạp Văn,8,4.8,2076,NXB Trẻ
