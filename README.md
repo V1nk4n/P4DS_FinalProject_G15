@@ -1,10 +1,10 @@
-# P4DS_FinalProject_G15
+# PHÂN TÍCH THỊ TRƯỜNG SÁCH TRÊN NỀN TẢNG TIKI VIỆT NAM
 ---
 
-Đồ án cuối kỳ.
-Môn học: Lập trình cho Khoa học dữ liệu.
-Giảng viên lý thuyết: Phạm Trọng Nghĩa.
-Giảng viên thực hành: Vũ Công Thành.
+- Đồ án cuối kỳ.
+- Môn học: Lập trình cho Khoa học dữ liệu.
+- Giảng viên lý thuyết: Phạm Trọng Nghĩa.
+- Giảng viên thực hành: Vũ Công Thành.
 
 ---
 
@@ -16,14 +16,26 @@ Giảng viên thực hành: Vũ Công Thành.
 | Phạm Thiên An      | 22120008    |
 | Trương Vĩnh An    | 22120009   |
 
+## Hướng dẫn
+- Đầu tiên cần clone đồ án:
+```bash
+git clone https://github.com/V1nk4n/P4DS_FinalProject_G15.git
+```
+
+- Cần tải các thư viện bằng lệnh sau:
+```bash
+pip install -r requirements.txt
+```
+
 ## Nội dung
 1. `data_collection`: chứa các thông tin về nguồn dữ liệu.
 2. `data_exploration`: chứa phần khám phá và tiền xử lý dữ liệu.
-3. `data_questions`: chứa 3 câu hỏi và phần trả lời của từng thành viên
+3. `data_questions`: chứa 3 câu hỏi và phần trả lời của từng thành viên.
 4. `data_modeling`: chứa các thông tin về xây dựng mô hình.
 5. `data_reflection`: chứa các nội dung tự đánh giá như khó khăn gặp phải, kiến thức học được và những dự định tiếp theo.
 6. `dataset`: chứa dữ liệu ban đầu và dữ liệu đã được xử lý.
 7. `docs`: chứa đề bài và các biên bản họp.
+8. `requirements.txt`: chứa các thư viện cần thiết.
 
 ## Phân công công việc
 [Google Sheet](https://docs.google.com/spreadsheets/d/1K-l5gfRnkd8qIvcDxzDuc1sZohgQG18PNoVVIwEvESY/edit?usp=sharing)
